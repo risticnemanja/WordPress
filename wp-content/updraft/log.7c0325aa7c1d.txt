@@ -1,0 +1,758 @@
+0000.000 (0) Opened log file at time: Thu, 25 Aug 2022 18:14:03 +0000 on https://nristic.wppsbootcamp.com/digitel
+0000.002 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.22.17 WP: 6.0.1 PHP: 8.0.22 (fpm-fcgi, Linux 190.62.205.92.host.secureserver.net 3.10.0-1160.76.1.el7.x86_64 #1 SMP Wed Aug 10 16:21:17 UTC 2022 x86_64) MySQL: 5.7.39 (max packet size=268435456) WPLANG: en_US Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 71.7M | 74M) multisite: N openssl: OpenSSL 1.1.1q  5 Jul 2022 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.037 (0) Free space on disk containing Updraft's temporary directory: 345585.3 MB
+0000.039 (0) Tasks: Backup files: 1 (schedule: unset) Backup DB: 1 (schedule: unset)
+0000.041 (0) Semaphore (fd, wp_options) being initialised
+0000.044 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.048 (0) Set semaphore last lock (fd) time to 2022-08-25 18:14:03
+0000.048 (0) Semaphore lock (fd) complete
+0000.051 (0) Backup run: resumption=0, nonce=7c0325aa7c1d, file_nonce=7c0325aa7c1d begun at=1661451243 (0s ago), job type=backup
+0000.053 (0) Scheduling a resumption (1) after 300 seconds (1661451543) in case this run gets aborted
+0000.062 (0) Checking if we have a zip executable available
+0000.063 (0) Testing: /usr/bin/zip
+0000.074 (0) Output: zip warning: binziptest/test.zip not found or empty
+0000.075 (0) Output: adding: binziptest/subdir1/	(in=0) (out=0) (stored 0%)
+0000.076 (0) Output: adding: binziptest/subdir1/subdir2/	(in=0) (out=0) (stored 0%)
+0000.076 (0) Output: adding: binziptest/subdir1/subdir2/test.html	(in=131) (out=107) (deflated 18%)
+0000.077 (0) Output: total bytes=131, compressed=107 -> 18% savings
+0000.086 (0) Output: adding: binziptest/subdir1/subdir2/test2.html	(in=138) (out=113) (deflated 18%)
+0000.087 (0) Output: total bytes=269, compressed=220 -> 18% savings
+0000.093 (0) Working binary zip found: /usr/bin/zip
+0000.095 (0) Zip engine: found/will use a binary zip: /usr/bin/zip
+0000.096 (0) Creation of backups of directories: beginning
+0000.098 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0000.368 (0) Total entities for the zip file: 3026 directories, 11068 files (0 skipped as non-modified), 145.3 MB
+0000.385 (0) Zip: backup_2022-08-25-1814_Digitel_7c0325aa7c1d-plugins.zip.tmp: 100 files added (on-disk size: 0 KB)
+0000.387 (0) Zip: backup_2022-08-25-1814_Digitel_7c0325aa7c1d-plugins.zip.tmp: 200 files added (on-disk size: 0 KB)
+0000.389 (0) Zip: backup_2022-08-25-1814_Digitel_7c0325aa7c1d-plugins.zip.tmp: 300 files added (on-disk size: 0 KB)
+0000.390 (0) Zip: backup_2022-08-25-1814_Digitel_7c0325aa7c1d-plugins.zip.tmp: 400 files added (on-disk size: 0 KB)
+0000.393 (0) Zip: backup_2022-08-25-1814_Digitel_7c0325aa7c1d-plugins.zip.tmp: 500 files added (on-disk size: 0 KB)
+0000.395 (0) Zip: backup_2022-08-25-1814_Digitel_7c0325aa7c1d-plugins.zip.tmp: 600 files added (on-disk size: 0 KB)
+0000.396 (0) Zip: backup_2022-08-25-1814_Digitel_7c0325aa7c1d-plugins.zip.tmp: 700 files added (on-disk size: 0 KB)
+0000.398 (0) Zip: backup_2022-08-25-1814_Digitel_7c0325aa7c1d-plugins.zip.tmp: 800 files added (on-disk size: 0 KB)
+0000.400 (0) Zip: backup_2022-08-25-1814_Digitel_7c0325aa7c1d-plugins.zip.tmp: 900 files added (on-disk size: 0 KB)
+0000.401 (0) Zip: backup_2022-08-25-1814_Digitel_7c0325aa7c1d-plugins.zip.tmp: 1000 files added (on-disk size: 0 KB)
+0000.402 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (10.4 MB, 11068 files batched, 1001 (1001) added so far); re-opening (prior size: 0 KB)
+0000.972 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-plugins.zip.tmp: size is now: 3.70 MB
+0000.976 (0) Zip: backup_2022-08-25-1814_Digitel_7c0325aa7c1d-plugins.zip.tmp: 1100 files added (on-disk size: 3769 KB)
+0000.977 (0) Zip: backup_2022-08-25-1814_Digitel_7c0325aa7c1d-plugins.zip.tmp: 1200 files added (on-disk size: 3769 KB)
+0000.980 (0) Zip: backup_2022-08-25-1814_Digitel_7c0325aa7c1d-plugins.zip.tmp: 1300 files added (on-disk size: 3769 KB)
+0000.981 (0) Zip: backup_2022-08-25-1814_Digitel_7c0325aa7c1d-plugins.zip.tmp: 1400 files added (on-disk size: 3769 KB)
+0000.983 (0) Zip: backup_2022-08-25-1814_Digitel_7c0325aa7c1d-plugins.zip.tmp: 1500 files added (on-disk size: 3769 KB)
+0000.985 (0) Zip: backup_2022-08-25-1814_Digitel_7c0325aa7c1d-plugins.zip.tmp: 1600 files added (on-disk size: 3769 KB)
+0000.987 (0) Zip: backup_2022-08-25-1814_Digitel_7c0325aa7c1d-plugins.zip.tmp: 1700 files added (on-disk size: 3769 KB)
+0000.989 (0) Zip: backup_2022-08-25-1814_Digitel_7c0325aa7c1d-plugins.zip.tmp: 1800 files added (on-disk size: 3769 KB)
+0000.991 (0) Zip: backup_2022-08-25-1814_Digitel_7c0325aa7c1d-plugins.zip.tmp: 1900 files added (on-disk size: 3769 KB)
+0000.993 (0) Zip: backup_2022-08-25-1814_Digitel_7c0325aa7c1d-plugins.zip.tmp: 2000 files added (on-disk size: 3769 KB)
+0000.994 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (5.5 MB, 11068 files batched, 1001 (2002) added so far); re-opening (prior size: 3769 KB)
+0001.396 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-plugins.zip.tmp: size is now: 5.20 MB
+0001.406 (0) Zip: backup_2022-08-25-1814_Digitel_7c0325aa7c1d-plugins.zip.tmp: 2100 files added (on-disk size: 5330.7 KB)
+0001.409 (0) Zip: backup_2022-08-25-1814_Digitel_7c0325aa7c1d-plugins.zip.tmp: 2200 files added (on-disk size: 5330.7 KB)
+0001.413 (0) Zip: backup_2022-08-25-1814_Digitel_7c0325aa7c1d-plugins.zip.tmp: 2300 files added (on-disk size: 5330.7 KB)
+0001.415 (0) Zip: backup_2022-08-25-1814_Digitel_7c0325aa7c1d-plugins.zip.tmp: 2400 files added (on-disk size: 5330.7 KB)
+0001.418 (0) Zip: backup_2022-08-25-1814_Digitel_7c0325aa7c1d-plugins.zip.tmp: 2500 files added (on-disk size: 5330.7 KB)
+0001.422 (0) Zip: backup_2022-08-25-1814_Digitel_7c0325aa7c1d-plugins.zip.tmp: 2600 files added (on-disk size: 5330.7 KB)
+0001.425 (0) Zip: backup_2022-08-25-1814_Digitel_7c0325aa7c1d-plugins.zip.tmp: 2700 files added (on-disk size: 5330.7 KB)
+0001.427 (0) Zip: backup_2022-08-25-1814_Digitel_7c0325aa7c1d-plugins.zip.tmp: 2800 files added (on-disk size: 5330.7 KB)
+0001.429 (0) Zip: backup_2022-08-25-1814_Digitel_7c0325aa7c1d-plugins.zip.tmp: 2900 files added (on-disk size: 5330.7 KB)
+0001.437 (0) Zip: backup_2022-08-25-1814_Digitel_7c0325aa7c1d-plugins.zip.tmp: 3000 files added (on-disk size: 5330.7 KB)
+0001.438 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (18.4 MB, 11068 files batched, 1001 (3003) added so far); re-opening (prior size: 5330.7 KB)
+0004.113 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-plugins.zip.tmp: size is now: 7.60 MB
+0004.129 (0) Zip: backup_2022-08-25-1814_Digitel_7c0325aa7c1d-plugins.zip.tmp: 3100 files added (on-disk size: 7816.3 KB)
+0004.134 (0) Zip: backup_2022-08-25-1814_Digitel_7c0325aa7c1d-plugins.zip.tmp: 3200 files added (on-disk size: 7816.3 KB)
+0004.137 (0) Zip: backup_2022-08-25-1814_Digitel_7c0325aa7c1d-plugins.zip.tmp: 3300 files added (on-disk size: 7816.3 KB)
+0004.139 (0) Zip: backup_2022-08-25-1814_Digitel_7c0325aa7c1d-plugins.zip.tmp: 3400 files added (on-disk size: 7816.3 KB)
+0004.142 (0) Zip: backup_2022-08-25-1814_Digitel_7c0325aa7c1d-plugins.zip.tmp: 3500 files added (on-disk size: 7816.3 KB)
+0004.145 (0) Zip: backup_2022-08-25-1814_Digitel_7c0325aa7c1d-plugins.zip.tmp: 3600 files added (on-disk size: 7816.3 KB)
+0004.154 (0) Zip: backup_2022-08-25-1814_Digitel_7c0325aa7c1d-plugins.zip.tmp: 3700 files added (on-disk size: 7816.3 KB)
+0004.157 (0) Zip: backup_2022-08-25-1814_Digitel_7c0325aa7c1d-plugins.zip.tmp: 3800 files added (on-disk size: 7816.3 KB)
+0004.159 (0) Zip: backup_2022-08-25-1814_Digitel_7c0325aa7c1d-plugins.zip.tmp: 3900 files added (on-disk size: 7816.3 KB)
+0004.161 (0) Zip: backup_2022-08-25-1814_Digitel_7c0325aa7c1d-plugins.zip.tmp: 4000 files added (on-disk size: 7816.3 KB)
+0004.162 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (25 MB, 11068 files batched, 1001 (4004) added so far); re-opening (prior size: 7816.3 KB)
+0005.161 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-plugins.zip.tmp: size is now: 14.70 MB
+0005.166 (0) Zip: backup_2022-08-25-1814_Digitel_7c0325aa7c1d-plugins.zip.tmp: 4100 files added (on-disk size: 15017.8 KB)
+0005.168 (0) Zip: backup_2022-08-25-1814_Digitel_7c0325aa7c1d-plugins.zip.tmp: 4200 files added (on-disk size: 15017.8 KB)
+0005.170 (0) Zip: backup_2022-08-25-1814_Digitel_7c0325aa7c1d-plugins.zip.tmp: 4300 files added (on-disk size: 15017.8 KB)
+0005.172 (0) Zip: backup_2022-08-25-1814_Digitel_7c0325aa7c1d-plugins.zip.tmp: 4400 files added (on-disk size: 15017.8 KB)
+0005.174 (0) Zip: backup_2022-08-25-1814_Digitel_7c0325aa7c1d-plugins.zip.tmp: 4500 files added (on-disk size: 15017.8 KB)
+0005.176 (0) Zip: backup_2022-08-25-1814_Digitel_7c0325aa7c1d-plugins.zip.tmp: 4600 files added (on-disk size: 15017.8 KB)
+0005.178 (0) Zip: backup_2022-08-25-1814_Digitel_7c0325aa7c1d-plugins.zip.tmp: 4700 files added (on-disk size: 15017.8 KB)
+0005.180 (0) Zip: backup_2022-08-25-1814_Digitel_7c0325aa7c1d-plugins.zip.tmp: 4800 files added (on-disk size: 15017.8 KB)
+0005.182 (0) Zip: backup_2022-08-25-1814_Digitel_7c0325aa7c1d-plugins.zip.tmp: 4900 files added (on-disk size: 15017.8 KB)
+0005.183 (0) Zip: backup_2022-08-25-1814_Digitel_7c0325aa7c1d-plugins.zip.tmp: 5000 files added (on-disk size: 15017.8 KB)
+0005.184 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (15 MB, 11068 files batched, 1001 (5005) added so far); re-opening (prior size: 15017.8 KB)
+0005.751 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-plugins.zip.tmp: size is now: 19.20 MB
+0005.780 (0) Zip: backup_2022-08-25-1814_Digitel_7c0325aa7c1d-plugins.zip.tmp: 5100 files added (on-disk size: 19651.1 KB)
+0005.784 (0) Zip: backup_2022-08-25-1814_Digitel_7c0325aa7c1d-plugins.zip.tmp: 5200 files added (on-disk size: 19651.1 KB)
+0005.787 (0) Zip: backup_2022-08-25-1814_Digitel_7c0325aa7c1d-plugins.zip.tmp: 5300 files added (on-disk size: 19651.1 KB)
+0005.809 (0) Zip: backup_2022-08-25-1814_Digitel_7c0325aa7c1d-plugins.zip.tmp: 5400 files added (on-disk size: 19651.1 KB)
+0005.857 (0) Zip: backup_2022-08-25-1814_Digitel_7c0325aa7c1d-plugins.zip.tmp: 5500 files added (on-disk size: 19651.1 KB)
+0005.873 (0) Zip: backup_2022-08-25-1814_Digitel_7c0325aa7c1d-plugins.zip.tmp: 5600 files added (on-disk size: 19651.1 KB)
+0005.896 (0) Zip: backup_2022-08-25-1814_Digitel_7c0325aa7c1d-plugins.zip.tmp: 5700 files added (on-disk size: 19651.1 KB)
+0005.919 (0) Zip: backup_2022-08-25-1814_Digitel_7c0325aa7c1d-plugins.zip.tmp: 5800 files added (on-disk size: 19651.1 KB)
+0005.952 (0) Zip: backup_2022-08-25-1814_Digitel_7c0325aa7c1d-plugins.zip.tmp: 5900 files added (on-disk size: 19651.1 KB)
+0005.974 (0) Zip: backup_2022-08-25-1814_Digitel_7c0325aa7c1d-plugins.zip.tmp: 6000 files added (on-disk size: 19651.1 KB)
+0006.001 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (6.9 MB, 11068 files batched, 1001 (6006) added so far); re-opening (prior size: 19651.1 KB)
+0006.325 (0) Zip: backup_2022-08-25-1814_Digitel_7c0325aa7c1d-plugins.zip.tmp: 6100 files added (on-disk size: 21701.2 KB)
+0006.328 (0) Zip: backup_2022-08-25-1814_Digitel_7c0325aa7c1d-plugins.zip.tmp: 6200 files added (on-disk size: 21701.2 KB)
+0006.334 (0) Zip: backup_2022-08-25-1814_Digitel_7c0325aa7c1d-plugins.zip.tmp: 6300 files added (on-disk size: 21701.2 KB)
+0006.340 (0) Zip: backup_2022-08-25-1814_Digitel_7c0325aa7c1d-plugins.zip.tmp: 6400 files added (on-disk size: 21701.2 KB)
+0006.344 (0) Zip: backup_2022-08-25-1814_Digitel_7c0325aa7c1d-plugins.zip.tmp: 6500 files added (on-disk size: 21701.2 KB)
+0006.348 (0) Zip: backup_2022-08-25-1814_Digitel_7c0325aa7c1d-plugins.zip.tmp: 6600 files added (on-disk size: 21701.2 KB)
+0006.352 (0) Zip: backup_2022-08-25-1814_Digitel_7c0325aa7c1d-plugins.zip.tmp: 6700 files added (on-disk size: 21701.2 KB)
+0006.364 (0) Zip: backup_2022-08-25-1814_Digitel_7c0325aa7c1d-plugins.zip.tmp: 6800 files added (on-disk size: 21701.2 KB)
+0006.367 (0) Zip: backup_2022-08-25-1814_Digitel_7c0325aa7c1d-plugins.zip.tmp: 6900 files added (on-disk size: 21701.2 KB)
+0006.369 (0) Zip: backup_2022-08-25-1814_Digitel_7c0325aa7c1d-plugins.zip.tmp: 7000 files added (on-disk size: 21701.2 KB)
+0006.371 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (4.7 MB, 11068 files batched, 1001 (7007) added so far); re-opening (prior size: 21701.2 KB)
+0006.622 (0) Zip: backup_2022-08-25-1814_Digitel_7c0325aa7c1d-plugins.zip.tmp: 7100 files added (on-disk size: 23540.6 KB)
+0006.625 (0) Zip: backup_2022-08-25-1814_Digitel_7c0325aa7c1d-plugins.zip.tmp: 7200 files added (on-disk size: 23540.6 KB)
+0006.627 (0) Zip: backup_2022-08-25-1814_Digitel_7c0325aa7c1d-plugins.zip.tmp: 7300 files added (on-disk size: 23540.6 KB)
+0006.630 (0) Zip: backup_2022-08-25-1814_Digitel_7c0325aa7c1d-plugins.zip.tmp: 7400 files added (on-disk size: 23540.6 KB)
+0006.632 (0) Zip: backup_2022-08-25-1814_Digitel_7c0325aa7c1d-plugins.zip.tmp: 7500 files added (on-disk size: 23540.6 KB)
+0006.634 (0) Zip: backup_2022-08-25-1814_Digitel_7c0325aa7c1d-plugins.zip.tmp: 7600 files added (on-disk size: 23540.6 KB)
+0006.636 (0) Zip: backup_2022-08-25-1814_Digitel_7c0325aa7c1d-plugins.zip.tmp: 7700 files added (on-disk size: 23540.6 KB)
+0006.638 (0) Zip: backup_2022-08-25-1814_Digitel_7c0325aa7c1d-plugins.zip.tmp: 7800 files added (on-disk size: 23540.6 KB)
+0006.640 (0) Zip: backup_2022-08-25-1814_Digitel_7c0325aa7c1d-plugins.zip.tmp: 7900 files added (on-disk size: 23540.6 KB)
+0006.642 (0) Zip: backup_2022-08-25-1814_Digitel_7c0325aa7c1d-plugins.zip.tmp: 8000 files added (on-disk size: 23540.6 KB)
+0006.644 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (4.6 MB, 11068 files batched, 1001 (8008) added so far); re-opening (prior size: 23540.6 KB)
+0006.890 (0) Zip: backup_2022-08-25-1814_Digitel_7c0325aa7c1d-plugins.zip.tmp: 8100 files added (on-disk size: 25331.1 KB)
+0006.892 (0) Zip: backup_2022-08-25-1814_Digitel_7c0325aa7c1d-plugins.zip.tmp: 8200 files added (on-disk size: 25331.1 KB)
+0006.895 (0) Zip: backup_2022-08-25-1814_Digitel_7c0325aa7c1d-plugins.zip.tmp: 8300 files added (on-disk size: 25331.1 KB)
+0006.897 (0) Zip: backup_2022-08-25-1814_Digitel_7c0325aa7c1d-plugins.zip.tmp: 8400 files added (on-disk size: 25331.1 KB)
+0006.898 (0) Zip: backup_2022-08-25-1814_Digitel_7c0325aa7c1d-plugins.zip.tmp: 8500 files added (on-disk size: 25331.1 KB)
+0006.900 (0) Zip: backup_2022-08-25-1814_Digitel_7c0325aa7c1d-plugins.zip.tmp: 8600 files added (on-disk size: 25331.1 KB)
+0006.904 (0) Zip: backup_2022-08-25-1814_Digitel_7c0325aa7c1d-plugins.zip.tmp: 8700 files added (on-disk size: 25331.1 KB)
+0006.906 (0) Zip: backup_2022-08-25-1814_Digitel_7c0325aa7c1d-plugins.zip.tmp: 8800 files added (on-disk size: 25331.1 KB)
+0006.908 (0) Zip: backup_2022-08-25-1814_Digitel_7c0325aa7c1d-plugins.zip.tmp: 8900 files added (on-disk size: 25331.1 KB)
+0006.910 (0) Zip: backup_2022-08-25-1814_Digitel_7c0325aa7c1d-plugins.zip.tmp: 9000 files added (on-disk size: 25331.1 KB)
+0006.911 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (20 MB, 11068 files batched, 1001 (9009) added so far); re-opening (prior size: 25331.1 KB)
+0007.513 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-plugins.zip.tmp: size is now: 30.80 MB
+0008.406 (0) Zip: backup_2022-08-25-1814_Digitel_7c0325aa7c1d-plugins.zip.tmp: 9100 files added (on-disk size: 31529.6 KB)
+0008.410 (0) Zip: backup_2022-08-25-1814_Digitel_7c0325aa7c1d-plugins.zip.tmp: 9200 files added (on-disk size: 31529.6 KB)
+0008.414 (0) Zip: backup_2022-08-25-1814_Digitel_7c0325aa7c1d-plugins.zip.tmp: 9300 files added (on-disk size: 31529.6 KB)
+0008.419 (0) Zip: backup_2022-08-25-1814_Digitel_7c0325aa7c1d-plugins.zip.tmp: 9400 files added (on-disk size: 31529.6 KB)
+0008.423 (0) Zip: backup_2022-08-25-1814_Digitel_7c0325aa7c1d-plugins.zip.tmp: 9500 files added (on-disk size: 31529.6 KB)
+0008.426 (0) Zip: backup_2022-08-25-1814_Digitel_7c0325aa7c1d-plugins.zip.tmp: 9600 files added (on-disk size: 31529.6 KB)
+0008.433 (0) Zip: backup_2022-08-25-1814_Digitel_7c0325aa7c1d-plugins.zip.tmp: 9700 files added (on-disk size: 31529.6 KB)
+0008.436 (0) Zip: backup_2022-08-25-1814_Digitel_7c0325aa7c1d-plugins.zip.tmp: 9800 files added (on-disk size: 31529.6 KB)
+0008.441 (0) Zip: backup_2022-08-25-1814_Digitel_7c0325aa7c1d-plugins.zip.tmp: 9900 files added (on-disk size: 31529.6 KB)
+0008.442 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 25 MB added on this batch (25 MB, 11068 files batched, 921 (9930) added so far); re-opening (prior size: 31529.6 KB)
+0009.425 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-plugins.zip.tmp: size is now: 38.30 MB
+0009.448 (0) A useful amount of data was added after this amount of zip processing: 1.5 s (normalised: 1.5 s, rate: 16628.6 KB/s)
+0009.459 (0) Performance is good - will increase the amount of data we attempt to batch (time=1.5402491092682, normalised_time=1.5395148939055, max_time=9.4543130397797, data points known=1, old_max_bytes=26214400, new_max_bytes=102166208)
+0009.464 (0) Zip: backup_2022-08-25-1814_Digitel_7c0325aa7c1d-plugins.zip.tmp: 10000 files added (on-disk size: 39248.7 KB)
+0009.466 (0) Zip: backup_2022-08-25-1814_Digitel_7c0325aa7c1d-plugins.zip.tmp: 10100 files added (on-disk size: 39248.7 KB)
+0009.468 (0) Zip: backup_2022-08-25-1814_Digitel_7c0325aa7c1d-plugins.zip.tmp: 10200 files added (on-disk size: 39248.7 KB)
+0009.470 (0) Zip: backup_2022-08-25-1814_Digitel_7c0325aa7c1d-plugins.zip.tmp: 10300 files added (on-disk size: 39248.7 KB)
+0009.472 (0) Zip: backup_2022-08-25-1814_Digitel_7c0325aa7c1d-plugins.zip.tmp: 10400 files added (on-disk size: 39248.7 KB)
+0009.474 (0) Zip: backup_2022-08-25-1814_Digitel_7c0325aa7c1d-plugins.zip.tmp: 10500 files added (on-disk size: 39248.7 KB)
+0009.476 (0) Zip: backup_2022-08-25-1814_Digitel_7c0325aa7c1d-plugins.zip.tmp: 10600 files added (on-disk size: 39248.7 KB)
+0009.477 (0) Zip: backup_2022-08-25-1814_Digitel_7c0325aa7c1d-plugins.zip.tmp: 10700 files added (on-disk size: 39248.7 KB)
+0009.479 (0) Zip: backup_2022-08-25-1814_Digitel_7c0325aa7c1d-plugins.zip.tmp: 10800 files added (on-disk size: 39248.7 KB)
+0009.481 (0) Zip: backup_2022-08-25-1814_Digitel_7c0325aa7c1d-plugins.zip.tmp: 10900 files added (on-disk size: 39248.7 KB)
+0009.482 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (7.7 MB, 11068 files batched, 1001 (10931) added so far); re-opening (prior size: 39248.7 KB)
+0009.870 (0) Zip: backup_2022-08-25-1814_Digitel_7c0325aa7c1d-plugins.zip.tmp: 11000 files added (on-disk size: 41598 KB)
+0010.270 (0) Creating zip file manifest (backup_2022-08-25-1814_Digitel_7c0325aa7c1d-plugins.zip.list-temp.tmp)
+0010.303 (0) Successfully created zip file manifest (size: 1003426)
+0011.005 (0) Created plugins zip (0) - 42210.4 KB in 10.9 s (3883 KB/s) (sha1: 56e14c071bcc0cb27b71a82fa25f826d1504e372, sha256: 483d5fc74b8453388a193491de7fa7d970142a9acfbb2ebbee6d73b285822ef9)
+0011.332 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0011.343 (0) No remote despatch: user chose no remote backup service
+0011.361 (0) Recording as successfully uploaded: backup_2022-08-25-1814_Digitel_7c0325aa7c1d-plugins.zip
+0011.400 (0) Deleting zip manifest (backup_2022-08-25-1814_Digitel_7c0325aa7c1d-plugins.zip.list.tmp)
+0011.430 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0011.432 (0) Number of backup sets in history: 0; groups (db): 1
+0011.437 (0) Number of backup sets in history: 0; groups (files): 1
+0011.443 (0) Retain: saving new backup history (sets now: 0) and finishing retain operation
+0011.463 (0) Beginning creation of dump of themes (split every: 400 MB)
+0011.631 (0) Total entities for the zip file: 368 directories, 1064 files (0 skipped as non-modified), 35.5 MB
+0011.638 (0) Zip: backup_2022-08-25-1814_Digitel_7c0325aa7c1d-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0011.640 (0) Zip: backup_2022-08-25-1814_Digitel_7c0325aa7c1d-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0011.642 (0) Zip: backup_2022-08-25-1814_Digitel_7c0325aa7c1d-themes.zip.tmp: 300 files added (on-disk size: 0 KB)
+0011.644 (0) Zip: backup_2022-08-25-1814_Digitel_7c0325aa7c1d-themes.zip.tmp: 400 files added (on-disk size: 0 KB)
+0011.646 (0) Zip: backup_2022-08-25-1814_Digitel_7c0325aa7c1d-themes.zip.tmp: 500 files added (on-disk size: 0 KB)
+0011.648 (0) Zip: backup_2022-08-25-1814_Digitel_7c0325aa7c1d-themes.zip.tmp: 600 files added (on-disk size: 0 KB)
+0011.650 (0) Zip: backup_2022-08-25-1814_Digitel_7c0325aa7c1d-themes.zip.tmp: 700 files added (on-disk size: 0 KB)
+0011.652 (0) Zip: backup_2022-08-25-1814_Digitel_7c0325aa7c1d-themes.zip.tmp: 800 files added (on-disk size: 0 KB)
+0011.654 (0) Zip: backup_2022-08-25-1814_Digitel_7c0325aa7c1d-themes.zip.tmp: 900 files added (on-disk size: 0 KB)
+0011.655 (0) Zip: backup_2022-08-25-1814_Digitel_7c0325aa7c1d-themes.zip.tmp: 1000 files added (on-disk size: 0 KB)
+0011.656 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (34.3 MB, 1064 files batched, 1001 (1001) added so far); re-opening (prior size: 0 KB)
+0013.677 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-themes.zip.tmp: size is now: 15.40 MB
+0013.791 (0) Creating zip file manifest (backup_2022-08-25-1814_Digitel_7c0325aa7c1d-themes.zip.list-temp.tmp)
+0013.794 (0) Successfully created zip file manifest (size: 86463)
+0013.939 (0) Created themes zip (0) - 16249.2 KB in 2.4 s (6689.5 KB/s) (sha1: 8b7e696fa4921419d7c43b6a911f09bce65555ec, sha256: 6488b8716cef35b7352f3d6a6671b77150929d6a88984c71307f33e3e75f4277)
+0013.942 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0013.943 (0) No remote despatch: user chose no remote backup service
+0013.944 (0) Recording as successfully uploaded: backup_2022-08-25-1814_Digitel_7c0325aa7c1d-themes.zip
+0013.946 (0) Deleting zip manifest (backup_2022-08-25-1814_Digitel_7c0325aa7c1d-themes.zip.list.tmp)
+0013.948 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0013.949 (0) Number of backup sets in history: 0; groups (db): 1
+0013.950 (0) Number of backup sets in history: 0; groups (files): 1
+0013.950 (0) Retain: saving new backup history (sets now: 0) and finishing retain operation
+0013.956 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0013.957 (0) Looking for candidates to backup in: /home/nristic/public_html/digitel/wp-content/uploads
+0013.958 (0) finding files: 2022: adding to list (1)
+0013.959 (0) finding files: essential-addons-elementor: adding to list (2)
+0013.960 (0) finding files: elementor: adding to list (3)
+0013.960 (0) finding files: wpcf7_uploads: adding to list (4)
+0013.961 (0) finding files: ao_ccss: adding to list (5)
+0013.962 (0) finding files: wpo: adding to list (6)
+0013.962 (0) finding files: .htaccess: adding to list (7)
+0013.963 (0) finding files: wpo-plugins-tables-list.json: adding to list (8)
+0013.964 (0) finding files: woocommerce_uploads: adding to list (9)
+0013.964 (0) finding files: wc-logs: adding to list (10)
+0013.965 (0) finding files: woocommerce-placeholder.png: adding to list (11)
+0013.966 (0) finding files: woocommerce-placeholder-300x300.png: adding to list (12)
+0013.967 (0) finding files: woocommerce-placeholder-1024x1024.png: adding to list (13)
+0013.967 (0) finding files: woocommerce-placeholder-150x150.png: adding to list (14)
+0013.968 (0) finding files: woocommerce-placeholder-768x768.png: adding to list (15)
+0013.969 (0) finding files: mailpoet: adding to list (16)
+0013.970 (0) finding files: woocommerce-placeholder-100x100.png: adding to list (17)
+0013.971 (0) finding files: woocommerce-placeholder-600x600.png: adding to list (18)
+0013.972 (0) finding files: pum: adding to list (19)
+0013.972 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0014.014 (0) Total entities for the zip file: 27 directories, 192 files (0 skipped as non-modified), 15.2 MB
+0014.016 (0) Zip: backup_2022-08-25-1814_Digitel_7c0325aa7c1d-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+0014.188 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-uploads.zip.tmp: size is now: 13.00 MB
+0014.192 (0) Creating zip file manifest (backup_2022-08-25-1814_Digitel_7c0325aa7c1d-uploads.zip.list-temp.tmp)
+0014.195 (0) Successfully created zip file manifest (size: 10389)
+0014.492 (0) Created uploads zip (0) - 13270.9 KB in 0.5 s (27327.9 KB/s) (sha1: 925654e4f3c0e1b8e4539dafb67df4ba2ba6bfb0, sha256: 99f82bcef4c01db3cbfab98798e498d1fb3535c1b398745c0fc8143413aa5ffa)
+0015.039 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0015.135 (0) No remote despatch: user chose no remote backup service
+0015.136 (0) Recording as successfully uploaded: backup_2022-08-25-1814_Digitel_7c0325aa7c1d-uploads.zip
+0015.139 (0) Deleting zip manifest (backup_2022-08-25-1814_Digitel_7c0325aa7c1d-uploads.zip.list.tmp)
+0015.143 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0015.145 (0) Number of backup sets in history: 0; groups (db): 1
+0015.147 (0) Number of backup sets in history: 0; groups (files): 1
+0015.148 (0) Retain: saving new backup history (sets now: 0) and finishing retain operation
+0015.156 (0) Beginning backup of other directories found in the content directory (index: 0)
+0015.158 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0015.159 (0) Looking for candidates to backup in: /home/nristic/public_html/digitel/wp-content
+0015.161 (0) finding files: themes: skipping: this is the themes directory
+0015.162 (0) finding files: index.php: adding to list (1)
+0015.163 (0) finding files: plugins: skipping: this is the plugins directory
+0015.164 (0) finding files: uploads: skipping: this is the uploads directory
+0015.165 (0) finding files: upgrade: skipping: excluded by options
+0015.166 (0) finding files: cache: skipping: excluded by options
+0015.167 (0) finding files: w3tc-config: adding to list (2)
+0015.168 (0) finding files: ewww: adding to list (3)
+0015.169 (0) finding files: updraft: skipping: this is the updraft directory
+0015.210 (0) Total entities for the zip file: 2 directories, 3 files (0 skipped as non-modified), 0 MB
+0015.226 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-others.zip.tmp: size is now: 0.00 MB
+0015.229 (0) Creating zip file manifest (backup_2022-08-25-1814_Digitel_7c0325aa7c1d-others.zip.list-temp.tmp)
+0015.230 (0) Successfully created zip file manifest (size: 107)
+0015.234 (0) Created others zip (0) - 6.9 KB in 0 s (256.3 KB/s) (sha1: f1d449f8ed57a5440ea6fa80289144009ae9a854, sha256: a6b539fcea6b088ef0302621a061f6e22f9e3872b1c79f384db6ff4803596dd8)
+0015.237 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0015.238 (0) No remote despatch: user chose no remote backup service
+0015.239 (0) Recording as successfully uploaded: backup_2022-08-25-1814_Digitel_7c0325aa7c1d-others.zip
+0015.241 (0) Deleting zip manifest (backup_2022-08-25-1814_Digitel_7c0325aa7c1d-others.zip.list.tmp)
+0015.244 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0015.245 (0) Number of backup sets in history: 0; groups (db): 1
+0015.245 (0) Number of backup sets in history: 0; groups (files): 1
+0015.246 (0) Retain: saving new backup history (sets now: 0) and finishing retain operation
+0015.253 (0) Saving backup status to database (elements: 8)
+0015.255 (0) Beginning creation of database dump (WordPress DB)
+0015.256 (0) SQL compatibility mode is: NO_ZERO_IN_DATE,ERROR_FOR_DIVISION_BY_ZERO,NO_AUTO_CREATE_USER,NO_ENGINE_SUBSTITUTION
+0015.258 (0) Testing potential mysqldump binary: /usr/bin/mysqldump
+0015.280 (0) Output: /*!40103 SET @OLD_TIME_ZONE=@@TIME_ZONE */;\n/*!40103 SET TIME_ZONE='+00:00' */;\n/*!40014 SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0 */;\n/*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */;\n/*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;\n/*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;\nDROP TABLE IF EXISTS `wp_options`;\n/*!40101 SET @saved_cs_client     = @@character_set_client */;\n/*!40101 SET character_set_client = utf8 */;\nCRE (truncated - 1557 bytes total)
+0015.282 (0) Working binary mysqldump found: /usr/bin/mysqldump
+0015.293 (0) Table wp_options: Total expected rows (via COUNT): 646
+0015.394 (0) Table wp_options: Rows added in this batch (next record: 5173): 642 (uncompressed bytes in this segment=2609039) in 0.10 seconds
+0015.401 (0) Table wp_options: finishing file(s) (2, 483.8 KB)
+0015.404 (0) Table wp_users: Total expected rows (via COUNT): 2
+0015.405 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0015.407 (0) Table wp_users: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=1584) in 0.00 seconds
+0015.410 (0) Table wp_users: finishing file(s) (2, 0.7 KB)
+0015.415 (0) Table wp_usermeta: Total expected rows (via COUNT): 60
+0015.416 (0) Table is relatively small; fetch_rows will thus be: 100 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0015.419 (0) Table wp_usermeta: Rows added in this batch (next record: 67): 60 (uncompressed bytes in this segment=6070) in 0.01 seconds
+0015.423 (0) Table wp_usermeta: finishing file(s) (2, 2.2 KB)
+0015.427 (0) Table wp_actionscheduler_actions: Total expected rows (via COUNT): 482
+0015.428 (0) Table is relatively small; fetch_rows will thus be: 500 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0015.438 (0) Table wp_actionscheduler_actions: Rows added in this batch (next record: 869): 482 (uncompressed bytes in this segment=212403) in 0.01 seconds
+0015.443 (0) Table wp_actionscheduler_actions: finishing file(s) (2, 13.2 KB)
+0015.445 (0) Table wp_actionscheduler_claims: Total expected rows (via COUNT): 0
+0015.447 (0) Table wp_actionscheduler_claims: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=625) in 0.00 seconds
+0015.450 (0) Table wp_actionscheduler_claims: finishing file(s) (2, 0.4 KB)
+0015.452 (0) Table wp_actionscheduler_groups: Total expected rows (via COUNT): 6
+0015.453 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0015.455 (0) Table wp_actionscheduler_groups: Rows added in this batch (next record: 6): 6 (uncompressed bytes in this segment=821) in 0.00 seconds
+0015.458 (0) Table wp_actionscheduler_groups: finishing file(s) (2, 0.5 KB)
+0015.461 (0) Table wp_actionscheduler_logs: Total expected rows (approximate): 1388
+0015.473 (0) Table wp_actionscheduler_logs: Rows added in this batch (next record: 1444): 1442 (uncompressed bytes in this segment=125634) in 0.01 seconds
+0015.477 (0) Table wp_actionscheduler_logs: finishing file(s) (2, 11.9 KB)
+0015.481 (0) Table wp_commentmeta: Total expected rows (via COUNT): 0
+0015.483 (0) Table wp_commentmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=685) in 0.00 seconds
+0015.487 (0) Table wp_commentmeta: finishing file(s) (2, 0.4 KB)
+0015.490 (0) Table wp_comments: Total expected rows (via COUNT): 0
+0015.492 (0) Table wp_comments: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1752) in 0.00 seconds
+0015.495 (0) Table wp_comments: finishing file(s) (2, 0.5 KB)
+0015.498 (0) Table wp_links: Total expected rows (via COUNT): 0
+0015.500 (0) Table wp_links: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1310) in 0.00 seconds
+0015.504 (0) Table wp_links: finishing file(s) (2, 0.5 KB)
+0015.510 (0) Table wp_postmeta: Total expected rows (approximate): 1176
+0015.529 (0) Table wp_postmeta: Rows added in this batch (next record: 3865): 1328 (uncompressed bytes in this segment=674352) in 0.02 seconds
+0015.534 (0) Table wp_postmeta: finishing file(s) (2, 43.8 KB)
+0015.539 (0) Table wp_posts: Total expected rows (via COUNT): 171
+0015.540 (0) Table is relatively small; fetch_rows will thus be: 250 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0015.552 (0) Table wp_posts: Rows added in this batch (next record: 525): 171 (uncompressed bytes in this segment=524545) in 0.02 seconds
+0015.557 (0) Table wp_posts: finishing file(s) (2, 28.1 KB)
+0015.560 (0) Table wp_term_relationships: Total expected rows (approximate): 23
+0015.562 (0) Table wp_term_relationships: Rows added in this batch (next record: 100000): 23 (uncompressed bytes in this segment=1020) in 0.00 seconds
+0015.565 (0) Table wp_term_relationships: finishing file(s) (2, 0.5 KB)
+0015.570 (0) Table wp_term_taxonomy: Total expected rows (via COUNT): 23
+0015.570 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0015.574 (0) Table wp_term_taxonomy: Rows added in this batch (next record: 23): 23 (uncompressed bytes in this segment=1806) in 0.01 seconds
+0015.579 (0) Table wp_term_taxonomy: finishing file(s) (2, 0.6 KB)
+0015.583 (0) Table wp_termmeta: Total expected rows (via COUNT): 25
+0015.584 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0015.586 (0) Table wp_termmeta: Rows added in this batch (next record: 25): 25 (uncompressed bytes in this segment=1544) in 0.00 seconds
+0015.591 (0) Table wp_termmeta: finishing file(s) (2, 0.6 KB)
+0015.593 (0) Table wp_terms: Total expected rows (via COUNT): 23
+0015.594 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0015.596 (0) Table wp_terms: Rows added in this batch (next record: 23): 23 (uncompressed bytes in this segment=1648) in 0.00 seconds
+0015.600 (0) Table wp_terms: finishing file(s) (2, 0.7 KB)
+0015.602 (0) Table wp_wc_category_lookup: Total expected rows (approximate): 10
+0015.605 (0) Table wp_wc_category_lookup: Rows added in this batch (next record: 1000): 10 (uncompressed bytes in this segment=689) in 0.00 seconds
+0015.608 (0) Table wp_wc_category_lookup: finishing file(s) (2, 0.4 KB)
+0015.612 (0) Table wp_wc_product_meta_lookup: Total expected rows (via COUNT): 24
+0015.613 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0015.615 (0) Table wp_wc_product_meta_lookup: Rows added in this batch (next record: 437): 24 (uncompressed bytes in this segment=3862) in 0.00 seconds
+0015.619 (0) Table wp_wc_product_meta_lookup: finishing file(s) (2, 0.7 KB)
+0015.622 (0) Table wp_wc_reserved_stock: Total expected rows (approximate): 0
+0015.624 (0) Table wp_wc_reserved_stock: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=665) in 0.00 seconds
+0015.629 (0) Table wp_wc_reserved_stock: finishing file(s) (2, 0.4 KB)
+0015.632 (0) Table wp_wc_tax_rate_classes: Total expected rows (via COUNT): 2
+0015.633 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0015.635 (0) Table wp_wc_tax_rate_classes: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=812) in 0.00 seconds
+0015.640 (0) Table wp_wc_tax_rate_classes: finishing file(s) (2, 0.4 KB)
+0015.645 (0) Table wp_woocommerce_order_itemmeta: Total expected rows (via COUNT): 0
+0015.648 (0) Table wp_woocommerce_order_itemmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=771) in 0.01 seconds
+0015.654 (0) Table wp_woocommerce_order_itemmeta: finishing file(s) (2, 0.4 KB)
+0015.659 (0) Table wp_woocommerce_payment_tokenmeta: Total expected rows (via COUNT): 0
+0015.660 (0) Table wp_woocommerce_payment_tokenmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=798) in 0.00 seconds
+0015.664 (0) Table wp_woocommerce_payment_tokenmeta: finishing file(s) (2, 0.4 KB)
+0015.667 (0) Table wp_e_events: Total expected rows (via COUNT): 0
+0015.670 (0) Table wp_e_events: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=529) in 0.00 seconds
+0015.674 (0) Table wp_e_events: finishing file(s) (2, 0.4 KB)
+0015.677 (0) Table wp_ewwwio_images: Total expected rows (via COUNT): 19
+0015.678 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0015.681 (0) Table wp_ewwwio_images: Rows added in this batch (next record: 19): 19 (uncompressed bytes in this segment=4668) in 0.00 seconds
+0015.688 (0) Table wp_ewwwio_images: finishing file(s) (2, 1.3 KB)
+0015.691 (0) Table wp_ewwwio_queue: Total expected rows (via COUNT): 0
+0015.694 (0) Table wp_ewwwio_queue: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=621) in 0.00 seconds
+0015.697 (0) Table wp_ewwwio_queue: finishing file(s) (2, 0.4 KB)
+0015.704 (0) Table wp_gla_budget_recommendations: Total expected rows (via COUNT): 4230
+0015.730 (0) Table wp_gla_budget_recommendations: Rows added in this batch (next record: 4230): 4230 (uncompressed bytes in this segment=131457) in 0.03 seconds
+0015.735 (0) Table wp_gla_budget_recommendations: finishing file(s) (2, 33 KB)
+0015.739 (0) Table wp_gla_merchant_issues: Total expected rows (via COUNT): 0
+0015.740 (0) Table wp_gla_merchant_issues: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1169) in 0.00 seconds
+0015.743 (0) Table wp_gla_merchant_issues: finishing file(s) (2, 0.4 KB)
+0015.747 (0) Table wp_gla_shipping_rates: Total expected rows (via COUNT): 0
+0015.748 (0) Table wp_gla_shipping_rates: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=820) in 0.00 seconds
+0015.751 (0) Table wp_gla_shipping_rates: finishing file(s) (2, 0.4 KB)
+0015.755 (0) Table wp_gla_shipping_times: Total expected rows (via COUNT): 0
+0015.757 (0) Table wp_gla_shipping_times: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=588) in 0.00 seconds
+0015.760 (0) Table wp_gla_shipping_times: finishing file(s) (2, 0.4 KB)
+0015.766 (0) Table wp_mailpoet_custom_fields: Total expected rows (via COUNT): 0
+0015.767 (0) Table wp_mailpoet_custom_fields: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=831) in 0.00 seconds
+0015.772 (0) Table wp_mailpoet_custom_fields: finishing file(s) (2, 0.4 KB)
+0015.775 (0) Table wp_mailpoet_dynamic_segment_filters: Total expected rows (via COUNT): 0
+0015.777 (0) Table wp_mailpoet_dynamic_segment_filters: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=922) in 0.00 seconds
+0015.780 (0) Table wp_mailpoet_dynamic_segment_filters: finishing file(s) (2, 0.4 KB)
+0015.783 (0) Table wp_mailpoet_feature_flags: Total expected rows (via COUNT): 0
+0015.785 (0) Table wp_mailpoet_feature_flags: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=744) in 0.00 seconds
+0015.788 (0) Table wp_mailpoet_feature_flags: finishing file(s) (2, 0.4 KB)
+0015.792 (0) Table wp_mailpoet_forms: Total expected rows (via COUNT): 0
+0015.793 (0) Table wp_mailpoet_forms: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=912) in 0.00 seconds
+0015.797 (0) Table wp_mailpoet_forms: finishing file(s) (2, 0.4 KB)
+0015.802 (0) Table wp_mailpoet_log: Total expected rows (via COUNT): 0
+0015.803 (0) Table wp_mailpoet_log: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=639) in 0.00 seconds
+0015.808 (0) Table wp_mailpoet_log: finishing file(s) (2, 0.4 KB)
+0015.811 (0) Table wp_mailpoet_mapping_to_external_entities: Total expected rows (approximate): 0
+0015.812 (0) Table wp_mailpoet_mapping_to_external_entities: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=761) in 0.00 seconds
+0015.815 (0) Table wp_mailpoet_mapping_to_external_entities: finishing file(s) (2, 0.4 KB)
+0015.819 (0) Table wp_mailpoet_newsletter_links: Total expected rows (via COUNT): 0
+0015.821 (0) Table wp_mailpoet_newsletter_links: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=942) in 0.00 seconds
+0015.824 (0) Table wp_mailpoet_newsletter_links: finishing file(s) (2, 0.4 KB)
+0015.830 (0) Table wp_mailpoet_newsletter_option: Total expected rows (via COUNT): 0
+0015.831 (0) Table wp_mailpoet_newsletter_option: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=865) in 0.00 seconds
+0015.847 (0) Table wp_mailpoet_newsletter_option: finishing file(s) (2, 0.4 KB)
+0015.861 (0) Table wp_mailpoet_newsletter_option_fields: Total expected rows (via COUNT): 24
+0015.861 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0015.864 (0) Table wp_mailpoet_newsletter_option_fields: Rows added in this batch (next record: 24): 24 (uncompressed bytes in this segment=2522) in 0.00 seconds
+0015.868 (0) Table wp_mailpoet_newsletter_option_fields: finishing file(s) (2, 0.7 KB)
+0015.872 (0) Table wp_mailpoet_newsletter_posts: Total expected rows (via COUNT): 0
+0015.875 (0) Table wp_mailpoet_newsletter_posts: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=759) in 0.00 seconds
+0015.878 (0) Table wp_mailpoet_newsletter_posts: finishing file(s) (2, 0.4 KB)
+0015.882 (0) Table wp_mailpoet_newsletter_segment: Total expected rows (via COUNT): 0
+0015.884 (0) Table wp_mailpoet_newsletter_segment: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=799) in 0.00 seconds
+0015.888 (0) Table wp_mailpoet_newsletter_segment: finishing file(s) (2, 0.4 KB)
+0015.894 (0) Table wp_mailpoet_newsletter_templates: Total expected rows (via COUNT): 76
+0015.895 (0) Table is relatively small; fetch_rows will thus be: 100 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0015.919 (0) Table wp_mailpoet_newsletter_templates: Rows added in this batch (next record: 76): 76 (uncompressed bytes in this segment=1123057) in 0.03 seconds
+0015.927 (0) Table wp_mailpoet_newsletter_templates: finishing file(s) (2, 67.1 KB)
+0015.938 (0) Table wp_mailpoet_newsletters: Total expected rows (via COUNT): 0
+0015.940 (0) Table wp_mailpoet_newsletters: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1754) in 0.01 seconds
+0015.944 (0) Table wp_mailpoet_newsletters: finishing file(s) (2, 0.6 KB)
+0015.947 (0) Table wp_mailpoet_scheduled_task_subscribers: Total expected rows (approximate): 0
+0015.949 (0) Table wp_mailpoet_scheduled_task_subscribers: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=914) in 0.00 seconds
+0015.953 (0) Table wp_mailpoet_scheduled_task_subscribers: finishing file(s) (2, 0.4 KB)
+0015.958 (0) Table wp_mailpoet_scheduled_tasks: Total expected rows (via COUNT): 15
+0015.959 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0015.961 (0) Table wp_mailpoet_scheduled_tasks: Rows added in this batch (next record: 15): 15 (uncompressed bytes in this segment=3544) in 0.01 seconds
+0015.967 (0) Table wp_mailpoet_scheduled_tasks: finishing file(s) (2, 1 KB)
+0015.972 (0) Table wp_mailpoet_segments: Total expected rows (via COUNT): 3
+0015.973 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0015.976 (0) Table wp_mailpoet_segments: Rows added in this batch (next record: 3): 3 (uncompressed bytes in this segment=1652) in 0.01 seconds
+0015.980 (0) Table wp_mailpoet_segments: finishing file(s) (2, 0.7 KB)
+0015.986 (0) Table wp_mailpoet_sending_queues: Total expected rows (via COUNT): 0
+0015.989 (0) Table wp_mailpoet_sending_queues: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1261) in 0.01 seconds
+0015.997 (0) Table wp_mailpoet_sending_queues: finishing file(s) (2, 0.5 KB)
+0016.003 (0) Table wp_mailpoet_settings: Total expected rows (via COUNT): 15
+0016.004 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0016.006 (0) Table wp_mailpoet_settings: Rows added in this batch (next record: 20): 15 (uncompressed bytes in this segment=3153) in 0.01 seconds
+0016.012 (0) Table wp_mailpoet_settings: finishing file(s) (2, 1.2 KB)
+0016.015 (0) Table wp_mailpoet_statistics_bounces: Total expected rows (via COUNT): 0
+0016.018 (0) Table wp_mailpoet_statistics_bounces: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=704) in 0.00 seconds
+0016.021 (0) Table wp_mailpoet_statistics_bounces: finishing file(s) (2, 0.4 KB)
+0016.025 (0) Table wp_mailpoet_statistics_clicks: Total expected rows (via COUNT): 0
+0016.026 (0) Table wp_mailpoet_statistics_clicks: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1125) in 0.00 seconds
+0016.030 (0) Table wp_mailpoet_statistics_clicks: finishing file(s) (2, 0.5 KB)
+0016.033 (0) Table wp_mailpoet_statistics_forms: Total expected rows (via COUNT): 0
+0016.035 (0) Table wp_mailpoet_statistics_forms: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=706) in 0.00 seconds
+0016.038 (0) Table wp_mailpoet_statistics_forms: finishing file(s) (2, 0.4 KB)
+0016.041 (0) Table wp_mailpoet_statistics_newsletters: Total expected rows (via COUNT): 0
+0016.043 (0) Table wp_mailpoet_statistics_newsletters: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=831) in 0.00 seconds
+0016.047 (0) Table wp_mailpoet_statistics_newsletters: finishing file(s) (2, 0.4 KB)
+0016.050 (0) Table wp_mailpoet_statistics_opens: Total expected rows (via COUNT): 0
+0016.052 (0) Table wp_mailpoet_statistics_opens: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1071) in 0.00 seconds
+0016.055 (0) Table wp_mailpoet_statistics_opens: finishing file(s) (2, 0.5 KB)
+0016.059 (0) Table wp_mailpoet_statistics_unsubscribes: Total expected rows (via COUNT): 0
+0016.060 (0) Table wp_mailpoet_statistics_unsubscribes: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1026) in 0.00 seconds
+0016.063 (0) Table wp_mailpoet_statistics_unsubscribes: finishing file(s) (2, 0.5 KB)
+0016.067 (0) Table wp_mailpoet_statistics_woocommerce_purchases: Total expected rows (via COUNT): 0
+0016.069 (0) Table wp_mailpoet_statistics_woocommerce_purchases: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1272) in 0.00 seconds
+0016.074 (0) Table wp_mailpoet_statistics_woocommerce_purchases: finishing file(s) (2, 0.5 KB)
+0016.078 (0) Table wp_mailpoet_stats_notifications: Total expected rows (via COUNT): 0
+0016.079 (0) Table wp_mailpoet_stats_notifications: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=831) in 0.00 seconds
+0016.083 (0) Table wp_mailpoet_stats_notifications: finishing file(s) (2, 0.4 KB)
+0016.087 (0) Table wp_mailpoet_subscriber_custom_field: Total expected rows (via COUNT): 0
+0016.090 (0) Table wp_mailpoet_subscriber_custom_field: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=906) in 0.00 seconds
+0016.095 (0) Table wp_mailpoet_subscriber_custom_field: finishing file(s) (2, 0.4 KB)
+0016.098 (0) Table wp_mailpoet_subscriber_ips: Total expected rows (approximate): 0
+0016.101 (0) Table wp_mailpoet_subscriber_ips: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=593) in 0.00 seconds
+0016.105 (0) Table wp_mailpoet_subscriber_ips: finishing file(s) (2, 0.4 KB)
+0016.108 (0) Table wp_mailpoet_subscriber_segment: Total expected rows (via COUNT): 2
+0016.110 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0016.112 (0) Table wp_mailpoet_subscriber_segment: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=1132) in 0.01 seconds
+0016.116 (0) Table wp_mailpoet_subscriber_segment: finishing file(s) (2, 0.5 KB)
+0016.120 (0) Table wp_mailpoet_subscriber_tag: Total expected rows (via COUNT): 0
+0016.123 (0) Table wp_mailpoet_subscriber_tag: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=790) in 0.00 seconds
+0016.126 (0) Table wp_mailpoet_subscriber_tag: finishing file(s) (2, 0.4 KB)
+0016.131 (0) Table wp_mailpoet_subscribers: Total expected rows (via COUNT): 2
+0016.133 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0016.135 (0) Table wp_mailpoet_subscribers: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=2914) in 0.01 seconds
+0016.140 (0) Table wp_mailpoet_subscribers: finishing file(s) (2, 0.9 KB)
+0016.144 (0) Table wp_mailpoet_tags: Total expected rows (via COUNT): 0
+0016.147 (0) Table wp_mailpoet_tags: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=717) in 0.00 seconds
+0016.150 (0) Table wp_mailpoet_tags: finishing file(s) (2, 0.4 KB)
+0016.154 (0) Table wp_mailpoet_user_agents: Total expected rows (via COUNT): 0
+0016.156 (0) Table wp_mailpoet_user_agents: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=757) in 0.00 seconds
+0016.160 (0) Table wp_mailpoet_user_agents: finishing file(s) (2, 0.4 KB)
+0016.163 (0) Table wp_mailpoet_user_flags: Total expected rows (via COUNT): 0
+0016.165 (0) Table wp_mailpoet_user_flags: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=809) in 0.00 seconds
+0016.168 (0) Table wp_mailpoet_user_flags: finishing file(s) (2, 0.4 KB)
+0016.174 (0) Table wp_tm_taskmeta: Total expected rows (via COUNT): 0
+0016.176 (0) Table wp_tm_taskmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=658) in 0.00 seconds
+0016.181 (0) Table wp_tm_taskmeta: finishing file(s) (2, 0.4 KB)
+0016.187 (0) Table wp_tm_tasks: Total expected rows (via COUNT): 0
+0016.189 (0) Table wp_tm_tasks: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=876) in 0.00 seconds
+0016.192 (0) Table wp_tm_tasks: finishing file(s) (2, 0.4 KB)
+0016.196 (0) Table wp_wc_admin_note_actions: Total expected rows (via COUNT): 55
+0016.196 (0) Table is relatively small; fetch_rows will thus be: 100 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0016.199 (0) Table wp_wc_admin_note_actions: Rows added in this batch (next record: 881): 55 (uncompressed bytes in this segment=9830) in 0.01 seconds
+0016.205 (0) Table wp_wc_admin_note_actions: finishing file(s) (2, 2.2 KB)
+0016.209 (0) Table wp_wc_admin_notes: Total expected rows (via COUNT): 47
+0016.210 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0016.214 (0) Table wp_wc_admin_notes: Rows added in this batch (next record: 49): 47 (uncompressed bytes in this segment=22653) in 0.01 seconds
+0016.219 (0) Table wp_wc_admin_notes: finishing file(s) (2, 5.9 KB)
+0016.224 (0) Table wp_wc_customer_lookup: Total expected rows (via COUNT): 0
+0016.227 (0) Table wp_wc_customer_lookup: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1266) in 0.00 seconds
+0016.231 (0) Table wp_wc_customer_lookup: finishing file(s) (2, 0.5 KB)
+0016.242 (0) Table wp_wc_download_log: Total expected rows (via COUNT): 0
+0016.263 (0) Table wp_wc_download_log: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=926) in 0.03 seconds
+0016.267 (0) Table wp_wc_download_log: finishing file(s) (2, 0.5 KB)
+0016.271 (0) Table wp_wc_order_coupon_lookup: Total expected rows (approximate): 0
+0016.274 (0) Table wp_wc_order_coupon_lookup: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=717) in 0.00 seconds
+0016.279 (0) Table wp_wc_order_coupon_lookup: finishing file(s) (2, 0.4 KB)
+0016.283 (0) Table wp_wc_order_product_lookup: Total expected rows (via COUNT): 0
+0016.284 (0) Table wp_wc_order_product_lookup: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1227) in 0.00 seconds
+0016.290 (0) Table wp_wc_order_product_lookup: finishing file(s) (2, 0.5 KB)
+0016.294 (0) Table wp_wc_order_stats: Total expected rows (via COUNT): 0
+0016.295 (0) Table wp_wc_order_stats: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1122) in 0.00 seconds
+0016.301 (0) Table wp_wc_order_stats: finishing file(s) (2, 0.5 KB)
+0016.305 (0) Table wp_wc_order_tax_lookup: Total expected rows (approximate): 0
+0016.307 (0) Table wp_wc_order_tax_lookup: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=799) in 0.00 seconds
+0016.311 (0) Table wp_wc_order_tax_lookup: finishing file(s) (2, 0.4 KB)
+0016.314 (0) Table wp_wc_product_attributes_lookup: Total expected rows (approximate): 0
+0016.316 (0) Table wp_wc_product_attributes_lookup: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=862) in 0.00 seconds
+0016.319 (0) Table wp_wc_product_attributes_lookup: finishing file(s) (2, 0.4 KB)
+0016.323 (0) Table wp_wc_product_download_directories: Total expected rows (via COUNT): 2
+0016.324 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0016.328 (0) Table wp_wc_product_download_directories: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=940) in 0.01 seconds
+0016.334 (0) Table wp_wc_product_download_directories: finishing file(s) (2, 0.5 KB)
+0016.340 (0) Table wp_wc_rate_limits: Total expected rows (via COUNT): 0
+0016.344 (0) Table wp_wc_rate_limits: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=700) in 0.01 seconds
+0016.350 (0) Table wp_wc_rate_limits: finishing file(s) (2, 0.4 KB)
+0016.354 (0) Table wp_wc_webhooks: Total expected rows (via COUNT): 0
+0016.355 (0) Table wp_wc_webhooks: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1230) in 0.00 seconds
+0016.360 (0) Table wp_wc_webhooks: finishing file(s) (2, 0.5 KB)
+0016.366 (0) Table wp_woocommerce_api_keys: Total expected rows (via COUNT): 0
+0016.367 (0) Table wp_woocommerce_api_keys: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1046) in 0.00 seconds
+0016.373 (0) Table wp_woocommerce_api_keys: finishing file(s) (2, 0.5 KB)
+0016.376 (0) Table wp_woocommerce_attribute_taxonomies: Total expected rows (via COUNT): 0
+0016.378 (0) Table wp_woocommerce_attribute_taxonomies: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=961) in 0.00 seconds
+0016.382 (0) Table wp_woocommerce_attribute_taxonomies: finishing file(s) (2, 0.4 KB)
+0016.386 (0) Table wp_woocommerce_downloadable_product_permissions: Total expected rows (via COUNT): 0
+0016.388 (0) Table wp_woocommerce_downloadable_product_permissions: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1538) in 0.00 seconds
+0016.392 (0) Table wp_woocommerce_downloadable_product_permissions: finishing file(s) (2, 0.5 KB)
+0016.397 (0) Table wp_woocommerce_log: Total expected rows (via COUNT): 0
+0016.398 (0) Table wp_woocommerce_log: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=722) in 0.00 seconds
+0016.403 (0) Table wp_woocommerce_log: finishing file(s) (2, 0.4 KB)
+0016.407 (0) Table wp_woocommerce_order_items: Total expected rows (via COUNT): 0
+0016.408 (0) Table wp_woocommerce_order_items: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=739) in 0.00 seconds
+0016.412 (0) Table wp_woocommerce_order_items: finishing file(s) (2, 0.4 KB)
+0016.416 (0) Table wp_woocommerce_payment_tokens: Total expected rows (via COUNT): 0
+0016.417 (0) Table wp_woocommerce_payment_tokens: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=841) in 0.00 seconds
+0016.427 (0) Table wp_woocommerce_payment_tokens: finishing file(s) (2, 0.4 KB)
+0016.433 (0) Table wp_woocommerce_sessions: Total expected rows (via COUNT): 1
+0016.434 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0016.436 (0) Table wp_woocommerce_sessions: Rows added in this batch (next record: 6): 1 (uncompressed bytes in this segment=2174) in 0.00 seconds
+0016.441 (0) Table wp_woocommerce_sessions: finishing file(s) (2, 0.8 KB)
+0016.445 (0) Table wp_woocommerce_shipping_zone_locations: Total expected rows (via COUNT): 1
+0016.446 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0016.448 (0) Table wp_woocommerce_shipping_zone_locations: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=977) in 0.00 seconds
+0016.454 (0) Table wp_woocommerce_shipping_zone_locations: finishing file(s) (2, 0.4 KB)
+0016.465 (0) Table wp_woocommerce_shipping_zone_methods: Total expected rows (via COUNT): 1
+0016.467 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0016.469 (0) Table wp_woocommerce_shipping_zone_methods: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=882) in 0.01 seconds
+0016.475 (0) Table wp_woocommerce_shipping_zone_methods: finishing file(s) (2, 0.4 KB)
+0016.479 (0) Table wp_woocommerce_shipping_zones: Total expected rows (via COUNT): 1
+0016.480 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0016.482 (0) Table wp_woocommerce_shipping_zones: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=720) in 0.00 seconds
+0016.486 (0) Table wp_woocommerce_shipping_zones: finishing file(s) (2, 0.4 KB)
+0016.491 (0) Table wp_woocommerce_tax_rate_locations: Total expected rows (via COUNT): 0
+0016.500 (0) Table wp_woocommerce_tax_rate_locations: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=848) in 0.01 seconds
+0016.505 (0) Table wp_woocommerce_tax_rate_locations: finishing file(s) (2, 0.4 KB)
+0016.510 (0) Table wp_woocommerce_tax_rates: Total expected rows (via COUNT): 0
+0016.511 (0) Table wp_woocommerce_tax_rates: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1301) in 0.00 seconds
+0016.516 (0) Table wp_woocommerce_tax_rates: finishing file(s) (2, 0.5 KB)
+0016.517 (0) PHP event: code E_WARNING: filemtime(): stat failed for /home/nristic/public_html/digitel/wp-content/updraft/backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db.gz (line 1912, wp-content/plugins/updraftplus/backup.php)
+0016.518 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_options.table.tmpr5174.gz (1/89/fopen): adding to final database dump
+0016.522 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_options.table.gz (2/89/fopen): adding to final database dump
+0016.536 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_users.table.tmpr3.gz (3/89/fopen): adding to final database dump
+0016.541 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_users.table.gz (4/89/fopen): adding to final database dump
+0016.542 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_usermeta.table.tmpr68.gz (5/89/fopen): adding to final database dump
+0016.544 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_usermeta.table.gz (6/89/fopen): adding to final database dump
+0016.546 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_actionscheduler_actions.table.tmpr870.gz (7/89/fopen): adding to final database dump
+0016.549 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_actionscheduler_actions.table.gz (8/89/fopen): adding to final database dump
+0016.551 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_actionscheduler_claims.table.tmpr0.gz (9/89/fopen): adding to final database dump
+0016.552 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_actionscheduler_claims.table.gz (10/89/fopen): adding to final database dump
+0016.553 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_actionscheduler_groups.table.tmpr7.gz (11/89/fopen): adding to final database dump
+0016.554 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_actionscheduler_groups.table.gz (12/89/fopen): adding to final database dump
+0016.556 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_actionscheduler_logs.table.tmpr1445.gz (13/89/fopen): adding to final database dump
+0016.560 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_actionscheduler_logs.table.gz (14/89/fopen): adding to final database dump
+0016.561 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_commentmeta.table.tmpr0.gz (15/89/fopen): adding to final database dump
+0016.562 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_commentmeta.table.gz (16/89/fopen): adding to final database dump
+0016.563 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_comments.table.tmpr0.gz (17/89/fopen): adding to final database dump
+0016.566 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_comments.table.gz (18/89/fopen): adding to final database dump
+0016.567 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_links.table.tmpr0.gz (19/89/fopen): adding to final database dump
+0016.570 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_links.table.gz (20/89/fopen): adding to final database dump
+0016.572 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_postmeta.table.tmpr3866.gz (21/89/fopen): adding to final database dump
+0016.573 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_postmeta.table.gz (22/89/fopen): adding to final database dump
+0016.574 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_posts.table.tmpr526.gz (23/89/fopen): adding to final database dump
+0016.576 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_posts.table.gz (24/89/fopen): adding to final database dump
+0016.578 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_term_relationships.table.tmpr100001.gz (25/89/fopen): adding to final database dump
+0016.580 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_term_relationships.table.gz (26/89/fopen): adding to final database dump
+0016.582 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_term_taxonomy.table.tmpr24.gz (27/89/fopen): adding to final database dump
+0016.584 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_term_taxonomy.table.gz (28/89/fopen): adding to final database dump
+0016.585 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_termmeta.table.tmpr26.gz (29/89/fopen): adding to final database dump
+0016.586 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_termmeta.table.gz (30/89/fopen): adding to final database dump
+0016.587 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_terms.table.tmpr24.gz (31/89/fopen): adding to final database dump
+0016.594 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_terms.table.gz (32/89/fopen): adding to final database dump
+0016.596 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_wc_category_lookup.table.tmpr1001.gz (33/89/fopen): adding to final database dump
+0016.597 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_wc_category_lookup.table.gz (34/89/fopen): adding to final database dump
+0016.598 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_wc_product_meta_lookup.table.tmpr438.gz (35/89/fopen): adding to final database dump
+0016.599 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_wc_product_meta_lookup.table.gz (36/89/fopen): adding to final database dump
+0016.600 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_wc_reserved_stock.table.tmpr1.gz (37/89/fopen): adding to final database dump
+0016.600 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_wc_reserved_stock.table.gz (38/89/fopen): adding to final database dump
+0016.601 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_wc_tax_rate_classes.table.tmpr3.gz (39/89/fopen): adding to final database dump
+0016.603 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_wc_tax_rate_classes.table.gz (40/89/fopen): adding to final database dump
+0016.604 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_woocommerce_order_itemmeta.table.tmpr0.gz (41/89/fopen): adding to final database dump
+0016.605 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_woocommerce_order_itemmeta.table.gz (42/89/fopen): adding to final database dump
+0016.606 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_woocommerce_payment_tokenmeta.table.tmpr0.gz (43/89/fopen): adding to final database dump
+0016.607 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_woocommerce_payment_tokenmeta.table.gz (44/89/fopen): adding to final database dump
+0016.608 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_e_events.table.tmpr0.gz (45/89/fopen): adding to final database dump
+0016.609 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_e_events.table.gz (46/89/fopen): adding to final database dump
+0016.610 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_ewwwio_images.table.tmpr20.gz (47/89/fopen): adding to final database dump
+0016.611 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_ewwwio_images.table.gz (48/89/fopen): adding to final database dump
+0016.612 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_ewwwio_queue.table.tmpr0.gz (49/89/fopen): adding to final database dump
+0016.613 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_ewwwio_queue.table.gz (50/89/fopen): adding to final database dump
+0016.614 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_gla_budget_recommendations.table.tmpr4231.gz (51/89/fopen): adding to final database dump
+0016.616 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_gla_budget_recommendations.table.gz (52/89/fopen): adding to final database dump
+0016.616 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_gla_merchant_issues.table.tmpr0.gz (53/89/fopen): adding to final database dump
+0016.618 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_gla_merchant_issues.table.gz (54/89/fopen): adding to final database dump
+0016.619 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_gla_shipping_rates.table.tmpr0.gz (55/89/fopen): adding to final database dump
+0016.620 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_gla_shipping_rates.table.gz (56/89/fopen): adding to final database dump
+0016.621 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_gla_shipping_times.table.tmpr0.gz (57/89/fopen): adding to final database dump
+0016.622 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_gla_shipping_times.table.gz (58/89/fopen): adding to final database dump
+0016.623 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_mailpoet_custom_fields.table.tmpr0.gz (59/89/fopen): adding to final database dump
+0016.624 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_mailpoet_custom_fields.table.gz (60/89/fopen): adding to final database dump
+0016.625 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_mailpoet_dynamic_segment_filters.table.tmpr0.gz (61/89/fopen): adding to final database dump
+0016.626 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_mailpoet_dynamic_segment_filters.table.gz (62/89/fopen): adding to final database dump
+0016.626 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_mailpoet_feature_flags.table.tmpr0.gz (63/89/fopen): adding to final database dump
+0016.627 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_mailpoet_feature_flags.table.gz (64/89/fopen): adding to final database dump
+0016.628 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_mailpoet_forms.table.tmpr0.gz (65/89/fopen): adding to final database dump
+0016.629 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_mailpoet_forms.table.gz (66/89/fopen): adding to final database dump
+0016.635 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_mailpoet_log.table.tmpr0.gz (67/89/fopen): adding to final database dump
+0016.641 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_mailpoet_log.table.gz (68/89/fopen): adding to final database dump
+0016.652 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_mailpoet_mapping_to_external_entities.table.tmpr1.gz (69/89/fopen): adding to final database dump
+0016.714 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_mailpoet_mapping_to_external_entities.table.gz (70/89/fopen): adding to final database dump
+0016.870 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_mailpoet_newsletter_links.table.tmpr0.gz (71/89/fopen): adding to final database dump
+0016.871 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_mailpoet_newsletter_links.table.gz (72/89/fopen): adding to final database dump
+0016.872 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_mailpoet_newsletter_option.table.tmpr0.gz (73/89/fopen): adding to final database dump
+0016.877 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_mailpoet_newsletter_option.table.gz (74/89/fopen): adding to final database dump
+0016.880 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_mailpoet_newsletter_option_fields.table.tmpr25.gz (75/89/fopen): adding to final database dump
+0016.888 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_mailpoet_newsletter_option_fields.table.gz (76/89/fopen): adding to final database dump
+0016.900 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_mailpoet_newsletter_posts.table.tmpr0.gz (77/89/fopen): adding to final database dump
+0016.905 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_mailpoet_newsletter_posts.table.gz (78/89/fopen): adding to final database dump
+0016.909 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_mailpoet_newsletter_segment.table.tmpr0.gz (79/89/fopen): adding to final database dump
+0016.943 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_mailpoet_newsletter_segment.table.gz (80/89/fopen): adding to final database dump
+0016.945 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_mailpoet_newsletter_templates.table.tmpr77.gz (81/89/fopen): adding to final database dump
+0016.948 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_mailpoet_newsletter_templates.table.gz (82/89/fopen): adding to final database dump
+0016.951 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_mailpoet_newsletters.table.tmpr0.gz (83/89/fopen): adding to final database dump
+0016.953 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_mailpoet_newsletters.table.gz (84/89/fopen): adding to final database dump
+0016.954 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_mailpoet_scheduled_task_subscribers.table.tmpr1.gz (85/89/fopen): adding to final database dump
+0016.955 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_mailpoet_scheduled_task_subscribers.table.gz (86/89/fopen): adding to final database dump
+0016.955 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_mailpoet_scheduled_tasks.table.tmpr16.gz (87/89/fopen): adding to final database dump
+0016.958 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_mailpoet_scheduled_tasks.table.gz (88/89/fopen): adding to final database dump
+0016.960 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_mailpoet_segments.table.tmpr4.gz (89/89/fopen): adding to final database dump
+0016.961 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_mailpoet_segments.table.gz (90/89/fopen): adding to final database dump
+0016.962 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_mailpoet_sending_queues.table.tmpr0.gz (91/89/fopen): adding to final database dump
+0016.963 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_mailpoet_sending_queues.table.gz (92/89/fopen): adding to final database dump
+0016.965 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_mailpoet_settings.table.tmpr21.gz (93/89/fopen): adding to final database dump
+0016.966 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_mailpoet_settings.table.gz (94/89/fopen): adding to final database dump
+0016.967 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_mailpoet_statistics_bounces.table.tmpr0.gz (95/89/fopen): adding to final database dump
+0016.969 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_mailpoet_statistics_bounces.table.gz (96/89/fopen): adding to final database dump
+0016.970 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_mailpoet_statistics_clicks.table.tmpr0.gz (97/89/fopen): adding to final database dump
+0016.972 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_mailpoet_statistics_clicks.table.gz (98/89/fopen): adding to final database dump
+0016.974 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_mailpoet_statistics_forms.table.tmpr0.gz (99/89/fopen): adding to final database dump
+0016.977 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_mailpoet_statistics_forms.table.gz (100/89/fopen): adding to final database dump
+0016.980 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_mailpoet_statistics_newsletters.table.tmpr0.gz (101/89/fopen): adding to final database dump
+0016.982 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_mailpoet_statistics_newsletters.table.gz (102/89/fopen): adding to final database dump
+0016.984 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_mailpoet_statistics_opens.table.tmpr0.gz (103/89/fopen): adding to final database dump
+0016.986 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_mailpoet_statistics_opens.table.gz (104/89/fopen): adding to final database dump
+0016.987 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_mailpoet_statistics_unsubscribes.table.tmpr0.gz (105/89/fopen): adding to final database dump
+0016.989 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_mailpoet_statistics_unsubscribes.table.gz (106/89/fopen): adding to final database dump
+0016.991 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_mailpoet_statistics_woocommerce_purchases.table.tmpr0.gz (107/89/fopen): adding to final database dump
+0016.992 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_mailpoet_statistics_woocommerce_purchases.table.gz (108/89/fopen): adding to final database dump
+0016.993 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_mailpoet_stats_notifications.table.tmpr0.gz (109/89/fopen): adding to final database dump
+0016.994 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_mailpoet_stats_notifications.table.gz (110/89/fopen): adding to final database dump
+0016.995 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_mailpoet_subscriber_custom_field.table.tmpr0.gz (111/89/fopen): adding to final database dump
+0016.996 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_mailpoet_subscriber_custom_field.table.gz (112/89/fopen): adding to final database dump
+0016.997 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_mailpoet_subscriber_ips.table.tmpr1.gz (113/89/fopen): adding to final database dump
+0016.998 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_mailpoet_subscriber_ips.table.gz (114/89/fopen): adding to final database dump
+0016.999 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_mailpoet_subscriber_segment.table.tmpr3.gz (115/89/fopen): adding to final database dump
+0017.000 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_mailpoet_subscriber_segment.table.gz (116/89/fopen): adding to final database dump
+0017.001 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_mailpoet_subscriber_tag.table.tmpr0.gz (117/89/fopen): adding to final database dump
+0017.003 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_mailpoet_subscriber_tag.table.gz (118/89/fopen): adding to final database dump
+0017.005 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_mailpoet_subscribers.table.tmpr3.gz (119/89/fopen): adding to final database dump
+0017.006 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_mailpoet_subscribers.table.gz (120/89/fopen): adding to final database dump
+0017.007 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_mailpoet_tags.table.tmpr0.gz (121/89/fopen): adding to final database dump
+0017.008 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_mailpoet_tags.table.gz (122/89/fopen): adding to final database dump
+0017.009 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_mailpoet_user_agents.table.tmpr0.gz (123/89/fopen): adding to final database dump
+0017.010 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_mailpoet_user_agents.table.gz (124/89/fopen): adding to final database dump
+0017.011 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_mailpoet_user_flags.table.tmpr0.gz (125/89/fopen): adding to final database dump
+0017.012 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_mailpoet_user_flags.table.gz (126/89/fopen): adding to final database dump
+0017.013 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_tm_taskmeta.table.tmpr0.gz (127/89/fopen): adding to final database dump
+0017.014 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_tm_taskmeta.table.gz (128/89/fopen): adding to final database dump
+0017.015 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_tm_tasks.table.tmpr0.gz (129/89/fopen): adding to final database dump
+0017.016 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_tm_tasks.table.gz (130/89/fopen): adding to final database dump
+0017.017 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_wc_admin_note_actions.table.tmpr882.gz (131/89/fopen): adding to final database dump
+0017.018 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_wc_admin_note_actions.table.gz (132/89/fopen): adding to final database dump
+0017.018 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_wc_admin_notes.table.tmpr50.gz (133/89/fopen): adding to final database dump
+0017.019 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_wc_admin_notes.table.gz (134/89/fopen): adding to final database dump
+0017.020 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_wc_customer_lookup.table.tmpr0.gz (135/89/fopen): adding to final database dump
+0017.023 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_wc_customer_lookup.table.gz (136/89/fopen): adding to final database dump
+0017.025 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_wc_download_log.table.tmpr0.gz (137/89/fopen): adding to final database dump
+0017.026 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_wc_download_log.table.gz (138/89/fopen): adding to final database dump
+0017.027 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_wc_order_coupon_lookup.table.tmpr1.gz (139/89/fopen): adding to final database dump
+0017.028 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_wc_order_coupon_lookup.table.gz (140/89/fopen): adding to final database dump
+0017.030 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_wc_order_product_lookup.table.tmpr0.gz (141/89/fopen): adding to final database dump
+0017.036 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_wc_order_product_lookup.table.gz (142/89/fopen): adding to final database dump
+0017.048 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_wc_order_stats.table.tmpr0.gz (143/89/fopen): adding to final database dump
+0017.059 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_wc_order_stats.table.gz (144/89/fopen): adding to final database dump
+0017.071 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_wc_order_tax_lookup.table.tmpr1.gz (145/89/fopen): adding to final database dump
+0017.099 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_wc_order_tax_lookup.table.gz (146/89/fopen): adding to final database dump
+0017.112 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_wc_product_attributes_lookup.table.tmpr1.gz (147/89/fopen): adding to final database dump
+0017.134 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_wc_product_attributes_lookup.table.gz (148/89/fopen): adding to final database dump
+0017.145 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_wc_product_download_directories.table.tmpr3.gz (149/89/fopen): adding to final database dump
+0017.158 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_wc_product_download_directories.table.gz (150/89/fopen): adding to final database dump
+0017.169 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_wc_rate_limits.table.tmpr0.gz (151/89/fopen): adding to final database dump
+0017.181 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_wc_rate_limits.table.gz (152/89/fopen): adding to final database dump
+0017.193 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_wc_webhooks.table.tmpr0.gz (153/89/fopen): adding to final database dump
+0017.197 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_wc_webhooks.table.gz (154/89/fopen): adding to final database dump
+0017.202 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_woocommerce_api_keys.table.tmpr0.gz (155/89/fopen): adding to final database dump
+0017.205 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_woocommerce_api_keys.table.gz (156/89/fopen): adding to final database dump
+0017.206 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_woocommerce_attribute_taxonomies.table.tmpr0.gz (157/89/fopen): adding to final database dump
+0017.210 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_woocommerce_attribute_taxonomies.table.gz (158/89/fopen): adding to final database dump
+0017.211 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_woocommerce_downloadable_product_permissions.table.tmpr0.gz (159/89/fopen): adding to final database dump
+0017.214 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_woocommerce_downloadable_product_permissions.table.gz (160/89/fopen): adding to final database dump
+0017.215 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_woocommerce_log.table.tmpr0.gz (161/89/fopen): adding to final database dump
+0017.215 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_woocommerce_log.table.gz (162/89/fopen): adding to final database dump
+0017.216 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_woocommerce_order_items.table.tmpr0.gz (163/89/fopen): adding to final database dump
+0017.217 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_woocommerce_order_items.table.gz (164/89/fopen): adding to final database dump
+0017.218 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_woocommerce_payment_tokens.table.tmpr0.gz (165/89/fopen): adding to final database dump
+0017.219 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_woocommerce_payment_tokens.table.gz (166/89/fopen): adding to final database dump
+0017.220 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_woocommerce_sessions.table.tmpr7.gz (167/89/fopen): adding to final database dump
+0017.221 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_woocommerce_sessions.table.gz (168/89/fopen): adding to final database dump
+0017.229 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_woocommerce_shipping_zone_locations.table.tmpr2.gz (169/89/fopen): adding to final database dump
+0017.239 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_woocommerce_shipping_zone_locations.table.gz (170/89/fopen): adding to final database dump
+0017.251 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_woocommerce_shipping_zone_methods.table.tmpr2.gz (171/89/fopen): adding to final database dump
+0017.278 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_woocommerce_shipping_zone_methods.table.gz (172/89/fopen): adding to final database dump
+0017.294 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_woocommerce_shipping_zones.table.tmpr2.gz (173/89/fopen): adding to final database dump
+0017.313 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_woocommerce_shipping_zones.table.gz (174/89/fopen): adding to final database dump
+0017.318 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_woocommerce_tax_rate_locations.table.tmpr0.gz (175/89/fopen): adding to final database dump
+0017.334 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_woocommerce_tax_rate_locations.table.gz (176/89/fopen): adding to final database dump
+0017.339 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_woocommerce_tax_rates.table.tmpr0.gz (177/89/fopen): adding to final database dump
+0017.340 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db-table-wp_woocommerce_tax_rates.table.gz (178/89/fopen): adding to final database dump
+0017.344 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db.gz: finished writing out complete database file (728.3 KB)
+0017.365 (0) Total database tables backed up: 89 (backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db.gz, size: 745887, sha1: 968c6a22110a0f0875ba83a51cb95797b228cbd6, sha256: 9fb283234b8cfc3f242edc5d71798cb3fbbe5c1dc533b36bdcd2309b618c8de8)
+0017.373 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-plugins.zip: plugins: This file has already been successfully uploaded
+0017.375 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-themes.zip: themes: This file has already been successfully uploaded
+0017.381 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-uploads.zip: uploads: This file has already been successfully uploaded
+0017.383 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-others.zip: others: This file has already been successfully uploaded
+0017.384 (0) backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db.gz: db: This file has not yet been successfully uploaded: will queue
+0017.386 (0) Saving backup history. Total backup size: 70.8 MB
+0017.388 (0) Requesting upload of the files that have not yet been successfully uploaded (1)
+0017.392 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0017.394 (0) No remote despatch: user chose no remote backup service
+0017.398 (0) Recording as successfully uploaded: backup_2022-08-25-1814_Digitel_7c0325aa7c1d-db.gz
+0017.403 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0017.405 (0) Number of backup sets in history: 1; groups (db): 1
+0017.406 (0) Examining (for databases) backup set with group_id=0, nonce=7c0325aa7c1d, datestamp=1661451243 (Aug 25 2022 18:14:03)
+0017.407 (0) This backup set is the backup set just made, so will not be deleted.
+0017.407 (0) Number of backup sets in history: 1; groups (files): 1
+0017.409 (0) Examining (for files) backup set with nonce=7c0325aa7c1d, datestamp=1661451243 (Aug 25 2022 18:14:03)
+0017.409 (0) This backup set is the backup set just made, so will not be deleted.
+0017.411 (0) This backup set is the backup set just made, so will not be deleted.
+0017.411 (0) This backup set is the backup set just made, so will not be deleted.
+0017.411 (0) This backup set is the backup set just made, so will not be deleted.
+0017.411 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0017.412 (0) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0017.415 (0) Resume backup (7c0325aa7c1d, 0): finish run
+0017.421 (0) Decremented the semaphore (fd) by 1
+0017.424 (0) Semaphore (fd) unlocked
+0017.427 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0017.546 (0) No email will/can be sent - the user has not configured an email address.
+0017.554 (0) The backup apparently succeeded and is now complete
