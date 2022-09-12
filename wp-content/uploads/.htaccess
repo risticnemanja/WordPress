@@ -1,0 +1,12 @@
+
+# BEGIN ShortPixelWebp
+# The directives (lines) between "BEGIN ShortPixelWebp" and "END ShortPixelWebp" are
+# dynamically generated, and should only be modified via WordPress filters.
+# Any changes to the directives between these markers will be overwritten.
+
+# END ShortPixelWebp
+# BEGIN Register webp mime type
+<IfModule mod_mime.c>
+	AddType image/webp .webp
+</IfModule>
+# END Register webp mime type

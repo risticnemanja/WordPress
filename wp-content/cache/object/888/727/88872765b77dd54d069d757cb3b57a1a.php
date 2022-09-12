@@ -1,0 +1,1 @@
+HÉc<?php exit; ?>a:1:{s:7:"content";a:1:{s:25:"_pll_strings_translations";a:1:{i:0;s:271:"a:4:{i:0;a:2:{i:0;s:41:"Copyright [copyright] Nemanja Ristic 2022";i:1;s:54:"[copyright] Nemanja Ristic 2022 | Sva prava zadr≈æana.";}i:1;a:2:{i:0;s:9:"Portfolio";i:1;s:9:"Portfolio";}i:2;a:2:{i:0;s:6:"F j, Y";i:1;s:6:"F j, Y";}i:3;a:2:{i:0;s:5:"g:i a";i:1;s:5:"g:i a";}}";}}}

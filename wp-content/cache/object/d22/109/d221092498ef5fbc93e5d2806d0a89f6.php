@@ -1,0 +1,1 @@
+8ƒc<?php exit; ?>a:1:{s:7:"content";a:2:{s:13:"polylang_mo_5";O:8:"stdClass":2:{s:10:"post_title";s:13:"polylang_mo_5";s:2:"ID";s:3:"574";}s:13:"polylang_mo_8";O:8:"stdClass":2:{s:10:"post_title";s:13:"polylang_mo_8";s:2:"ID";s:3:"575";}}}

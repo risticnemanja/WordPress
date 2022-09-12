@@ -1,0 +1,11 @@
+@ƒc<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":24:{s:2:"ID";i:452;s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2022-08-20 14:41:39";s:13:"post_date_gmt";s:19:"2022-08-20 14:41:39";s:12:"post_content";s:1339:"<!-- wp:paragraph -->
+<p>Internet security consists of a range of security tactics for protecting activities and transactions conducted online over the internet. These tactics are meant to safeguard users from threats such as hacking into computer systems, email addresses, or websites; malicious software that can infect and inherently damage systems; and identity theft by hackers who steal personal data such as bank account information and credit card numbers. Internet security is a specific aspect of broader concepts such as cybersecurity and computer security, being focused on the specific threats and vulnerabilities of online access and use of the internet.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>In today's digital landscape, many of our daily activities rely on the internet. Various forms of communication, entertainment, and financial and work-related tasks are accomplished online. This means that tons of data and sensitive information are constantly being shared over the internet. The internet is mostly private and secure, but it can also be an insecure channel for exchanging information. With a high risk of intrusion by hackers and cybercriminals, internet security is a top priority for individuals and businesses alike.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->";s:10:"post_title";s:17:"Internet security";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:6:"closed";s:11:"ping_status";s:6:"closed";s:13:"post_password";s:0:"";s:9:"post_name";s:17:"internet-security";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2022-08-20 14:41:39";s:17:"post_modified_gmt";s:19:"2022-08-20 14:41:39";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";i:0;s:4:"guid";s:70:"https://nristic.wppsbootcamp.com/portfolio/?post_type=facts&#038;p=452";s:10:"menu_order";i:0;s:9:"post_type";s:5:"facts";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";s:6:"filter";s:3:"raw";}}
