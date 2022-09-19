@@ -1,0 +1,576 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Mini Cart Drawer For WooCommerce\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: ;__;_e;_ee;SetTitle;AddInfo;AddError;SetSubtitle;___\n"
+"X-Poedit-Flags-xgettext: --no-location\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: .git\n"
+"X-Poedit-SearchPathExcluded-1: dev_files\n"
+"X-Poedit-SearchPathExcluded-2: dbscript\n"
+"X-Poedit-SearchPathExcluded-3: languages\n"
+"X-Poedit-SearchPathExcluded-4: tmp\n"
+"X-Poedit-SearchPathExcluded-5: node_modules\n"
+"X-Poedit-SearchPathExcluded-6: release\n"
+"X-Poedit-SearchPathExcluded-7: logs\n"
+
+msgid "Settings"
+msgstr ""
+
+msgid "Loading.."
+msgstr ""
+
+msgid "Loading"
+msgstr ""
+
+msgid "No change for update"
+msgstr ""
+
+msgid "Saved Successfully"
+msgstr ""
+
+#, php-format
+msgid "%s should be digit"
+msgstr ""
+
+#, php-format
+msgid "%s should be numeric"
+msgstr ""
+
+#, php-format
+msgid " %s should be less then %s"
+msgstr ""
+
+#, php-format
+msgid "%s should be a valid email address"
+msgstr ""
+
+msgid " should be hexadecimal"
+msgstr ""
+
+#, php-format
+msgid " %s are required"
+msgstr ""
+
+#, php-format
+msgid " %s is required"
+msgstr ""
+
+msgid "E004"
+msgstr ""
+
+msgid "Edit Using WP Customizer"
+msgstr ""
+
+msgid "General Settings"
+msgstr ""
+
+msgid "Drawer Settings"
+msgstr ""
+
+msgid "Cart Item Settings"
+msgstr ""
+
+msgid "Drawer Type"
+msgstr ""
+
+msgid "Choose a mini cart type"
+msgstr ""
+
+msgid "Position"
+msgstr ""
+
+msgid "Left Top"
+msgstr ""
+
+msgid "Left Middle"
+msgstr ""
+
+msgid "Left Bottom"
+msgstr ""
+
+msgid "Right Top"
+msgstr ""
+
+msgid "Right Middle"
+msgstr ""
+
+msgid "Right Bottom"
+msgstr ""
+
+msgid "Size"
+msgstr ""
+
+msgid "Choose a size"
+msgstr ""
+
+msgid "Border Radius"
+msgstr ""
+
+msgid "Choose a border radius"
+msgstr ""
+
+msgid "Bottom Margin"
+msgstr ""
+
+msgid "Choose a Bottom margin"
+msgstr ""
+
+msgid "Left/Right Margin"
+msgstr ""
+
+msgid "Choose a left margin"
+msgstr ""
+
+msgid "Color"
+msgstr ""
+
+msgid "Choose a color of mini cart"
+msgstr ""
+
+msgid "Skin"
+msgstr ""
+
+msgid "Icon"
+msgstr ""
+
+msgid "Choose an icon for mini cart"
+msgstr ""
+
+msgid "Footer Content"
+msgstr ""
+
+msgid "Choose drawer footer"
+msgstr ""
+
+#, php-format
+msgid "%s Items"
+msgstr ""
+
+msgid "Total Items"
+msgstr ""
+
+#, php-format
+msgid "%s Qtys"
+msgstr ""
+
+msgid "Total Quantities"
+msgstr ""
+
+msgid "$ 425.00"
+msgstr ""
+
+msgid "Total Amount"
+msgstr ""
+
+msgid "Display Animation"
+msgstr ""
+
+msgid "Choose Display Animation"
+msgstr ""
+
+msgid "None"
+msgstr ""
+
+msgid "jello"
+msgstr ""
+
+msgid "pulse"
+msgstr ""
+
+msgid "rubberBand"
+msgstr ""
+
+msgid "bounce"
+msgstr ""
+
+msgid "flash"
+msgstr ""
+
+msgid "wobble"
+msgstr ""
+
+msgid "flipInX"
+msgstr ""
+
+msgid "fadeInLeft"
+msgstr ""
+
+msgid "fadeInRight"
+msgstr ""
+
+msgid "Hide Corner Circle"
+msgstr ""
+
+msgid "if you enabled it, then circle counter of the top corner will be hide"
+msgstr ""
+
+msgid "Title Text"
+msgstr ""
+
+msgid "Cart item title "
+msgstr ""
+
+#, php-format
+msgid "Recommended by %s"
+msgstr ""
+
+msgid "Recommended"
+msgstr ""
+
+#, php-format
+msgid "About %s"
+msgstr ""
+
+msgid "Manage dynamic discount"
+msgstr ""
+
+msgid "Sale Booster"
+msgstr ""
+
+msgid "PRO"
+msgstr ""
+
+msgid "Mini Cart Ajax"
+msgstr ""
+
+msgid "Please enter the coupon code to apply"
+msgstr ""
+
+msgid "Mini cart settings"
+msgstr ""
+
+msgid "Drawer"
+msgstr ""
+
+msgid "Floating"
+msgstr ""
+
+msgid "Mini Cart"
+msgstr ""
+
+msgid "Nonce verify failed"
+msgstr ""
+
+msgid "done"
+msgstr ""
+
+msgid "Successfully updated"
+msgstr ""
+
+msgid "Cart item update failed"
+msgstr ""
+
+msgid "ID & Qty both are required"
+msgstr ""
+
+msgid "Unknown error"
+msgstr ""
+
+#, php-format
+msgid "You cannot add another \"%s\" to your cart."
+msgstr ""
+
+msgid "Product is not purchasable"
+msgstr ""
+
+#, php-format
+msgid "You cannot add that amount of &quot;%1$s&quot; to the cart because there is not enough stock (%2$s remaining)."
+msgstr ""
+
+msgid "Unknown error-393"
+msgstr ""
+
+msgid "Successfully removed"
+msgstr ""
+
+msgid "Cart item remove failed"
+msgstr ""
+
+msgid "Are you enjoying it? Would you like to add a 5 start rate in WordPress.org?"
+msgstr ""
+
+msgid "Yes Rate"
+msgstr ""
+
+msgid "I have already rated"
+msgstr ""
+
+msgid "Processing"
+msgstr ""
+
+msgid "Back"
+msgstr ""
+
+#, php-format
+msgid "It will redirect within %s second(s)"
+msgstr ""
+
+#, php-format
+msgid "Close in %s second(s)"
+msgstr ""
+
+msgid "Close"
+msgstr ""
+
+msgid "Discounts Rules"
+msgstr ""
+
+msgid "This module is available in pro version"
+msgstr ""
+
+msgid "You can attract your customers to purchase more items by offering many dynamic discounts, you can offer to your customer, like,if you spend 20USD more, then, you will get 2USD discount."
+msgstr ""
+
+msgid "Unlock It"
+msgstr ""
+
+msgid "Pro Version"
+msgstr ""
+
+msgid "pro version"
+msgstr ""
+
+#, php-format
+msgid "To unlock these features, you need %s"
+msgstr ""
+
+msgid "You will get these features in pro version"
+msgstr ""
+
+msgid "Apply Coupon box can be displayed in mini cart"
+msgstr ""
+
+msgid "Applied Coupon box can be displayed in cart"
+msgstr ""
+
+#, php-format
+msgid "You will get %s Module"
+msgstr ""
+
+msgid "You will get premium support"
+msgstr ""
+
+msgid "View Details"
+msgstr ""
+
+#, php-format
+msgid " Please install and activate WooCommerce to use %s plugin requires"
+msgstr ""
+
+msgid "Type"
+msgstr ""
+
+msgid "Left Margin"
+msgstr ""
+
+msgid "Right Margin"
+msgstr ""
+
+msgid "You can easily configure this using wp customizer, Click the button bellow to customize"
+msgstr ""
+
+msgid "Open WP Customizer"
+msgstr ""
+
+msgid "Hide in cart page"
+msgstr ""
+
+msgid "if you enabled it, the mini cart doesn't show in cart page"
+msgstr ""
+
+msgid "Hide in checkout page"
+msgstr ""
+
+msgid "if you enabled it, the mini cart doesn't show in checkout page"
+msgstr ""
+
+msgid "Hide On Pages"
+msgstr ""
+
+msgid "You can choose page where you want to hide the cart button"
+msgstr ""
+
+msgid "Don't show when cart empty"
+msgstr ""
+
+msgid "if you enabled it, the mini cart doesn't show when the cart is empty"
+msgstr ""
+
+msgid "Cart Content show on each item add"
+msgstr ""
+
+msgid "if you enabled it, the mini cart item container will display on each cart add"
+msgstr ""
+
+msgid "Custom CSS"
+msgstr ""
+
+msgid "Click the button to add custom css"
+msgstr ""
+
+msgid "Add Menu Item"
+msgstr ""
+
+msgid "if you enabled it, it will show in menu item"
+msgstr ""
+
+msgid "Save"
+msgstr ""
+
+msgid "Cart Button or Drawer"
+msgstr ""
+
+msgid "Amount Type"
+msgstr ""
+
+msgid "Sub Total"
+msgstr ""
+
+msgid "Sub Total - Discount = Cart Total"
+msgstr ""
+
+msgid "Cart Total"
+msgstr ""
+
+msgid "Hide Circle"
+msgstr ""
+
+msgid "Circle Counter Type"
+msgstr ""
+
+msgid "Total Item"
+msgstr ""
+
+msgid "Total Quantity"
+msgstr ""
+
+msgid "Cart Item Container"
+msgstr ""
+
+msgid "My Cart"
+msgstr ""
+
+msgid "It will show into header as title in cart"
+msgstr ""
+
+msgid "Undo Remove Panel"
+msgstr ""
+
+msgid "if you enabled it, remove undo panel will be displayed into cart"
+msgstr ""
+
+msgid "Show Discount & Cart Total"
+msgstr ""
+
+msgid "if you enabled it, then discount & cart total will be displayed into cart"
+msgstr ""
+
+msgid "Show All Fees"
+msgstr ""
+
+msgid "if you enabled it, then shipping total, total fee, total tax will be displayed into cart"
+msgstr ""
+
+msgid "Show Coupon Input"
+msgstr ""
+
+msgid "if you enabled it then coupon input box will be show in cart"
+msgstr ""
+
+msgid "Applied Coupon Panel"
+msgstr ""
+
+msgid "if you enabled it then applied coupon panle will be displayed in cart"
+msgstr ""
+
+msgid "Enable Cart Button"
+msgstr ""
+
+msgid "if you enabled it, View full cart button will be displayed into cart footer"
+msgstr ""
+
+msgid "Cart Button Text"
+msgstr ""
+
+msgid "View Full Cart"
+msgstr ""
+
+msgid "It will show into the checkout button"
+msgstr ""
+
+msgid "Enable Checkout Button"
+msgstr ""
+
+msgid "if you enabled it, View full cart buttion will be displayed into cart footer"
+msgstr ""
+
+msgid "Checkout Button Text"
+msgstr ""
+
+msgid "Checkout"
+msgstr ""
+
+msgid "It will animated when display after page load and any change in cart items"
+msgstr ""
+
+msgid "If you enabled it, then circle will be hide"
+msgstr ""
+
+msgid "Choose the circle counter type"
+msgstr ""
+
+msgid "Current Value"
+msgstr ""
+
+msgid "Items"
+msgstr ""
+
+msgid "Item"
+msgstr ""
+
+msgid "Quantities"
+msgstr ""
+
+msgid "Quantity"
+msgstr ""
+
+msgid " - removed"
+msgstr ""
+
+msgid "Undo?"
+msgstr ""
+
+msgid "No"
+msgstr ""
+
+msgid "Empty Cart"
+msgstr ""
+
+msgid "Discount"
+msgstr ""
+
+msgid "Total"
+msgstr ""
+
+msgid "Shipping"
+msgstr ""
+
+msgid "Total Fee"
+msgstr ""
+
+msgid "Tax Total"
+msgstr ""
+
+#, php-format
+msgid "Please install and activate WooCommerce to use %s "
+msgstr ""

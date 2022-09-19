@@ -1,0 +1,417 @@
+
+19-09-2022 07:40:18 [nristic.wppsbootcamp.com][info] Parent plugin start installation!
+19-09-2022 07:40:18 [nristic.wppsbootcamp.com][info] Plugin installation: try create plugin tables.
+																	-DB Version: 0
+																	-Plugin Version in DB: 0
+																	-Current Plugin Version: 1.5.6
+19-09-2022 07:40:19 [nristic.wppsbootcamp.com][info] Parent plugin installation complete!
+-------------------------------
+19-09-2022 07:40:27 [nristic.wppsbootcamp.com][info] Try to create backup directory. Backup dir: (/home/nristic/public_html/projekat/wp-content/uploads/wio_backup)
+-------------------------------
+19-09-2022 07:40:51 [nristic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+19-09-2022 07:40:51 [nristic.wppsbootcamp.com][info] Try to create backup directory. Backup dir: (/home/nristic/public_html/projekat/wp-content/uploads/wio_backup/2022/09)
+19-09-2022 07:40:51 [nristic.wppsbootcamp.com][info] Preparing to upload a file (/home/nristic/public_html/projekat/wp-content/uploads/2022/09/Blue-Berry-Skittles-576x1024-1.jpg) to a remote server (server_1).
+19-09-2022 07:40:51 [nristic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 07:40:51 [nristic.wppsbootcamp.com][info] Preparing to upload a file (/home/nristic/public_html/projekat/wp-content/uploads/2022/09/Blue-Berry-Skittles-576x1024-1-150x150.jpg) to a remote server (server_1).
+19-09-2022 07:40:51 [nristic.wppsbootcamp.com][info] Preparing to upload a file (/home/nristic/public_html/projekat/wp-content/uploads/2022/09/Blue-Berry-Skittles-576x1024-1-169x300.jpg) to a remote server (server_1).
+19-09-2022 07:40:51 [nristic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 07:40:51 [nristic.wppsbootcamp.com][debug] New queue created #1, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;16&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:61985,&quot;final_size&quot;:61985,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:1,\&quot;original_main_size\&quot;:53088,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663573251}
+19-09-2022 07:40:51 [nristic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 37
+-------------------------------
+19-09-2022 07:40:52 [nristic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+19-09-2022 07:40:52 [nristic.wppsbootcamp.com][info] Preparing to upload a file (/home/nristic/public_html/projekat/wp-content/uploads/2022/09/Chernobyl-3-576x1024-1.jpg) to a remote server (server_1).
+19-09-2022 07:40:52 [nristic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 07:40:52 [nristic.wppsbootcamp.com][info] Preparing to upload a file (/home/nristic/public_html/projekat/wp-content/uploads/2022/09/Chernobyl-3-576x1024-1-150x150.jpg) to a remote server (server_1).
+19-09-2022 07:40:52 [nristic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 07:40:52 [nristic.wppsbootcamp.com][info] Preparing to upload a file (/home/nristic/public_html/projekat/wp-content/uploads/2022/09/Chernobyl-3-576x1024-1-169x300.jpg) to a remote server (server_1).
+19-09-2022 07:40:52 [nristic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 07:40:52 [nristic.wppsbootcamp.com][debug] New queue created #2, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;17&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:80770,&quot;final_size&quot;:80770,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:65388,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663573252}
+19-09-2022 07:40:52 [nristic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 36
+-------------------------------
+19-09-2022 07:40:53 [nristic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+19-09-2022 07:40:53 [nristic.wppsbootcamp.com][info] Preparing to upload a file (/home/nristic/public_html/projekat/wp-content/uploads/2022/09/El-Chapo-og-3-576x1024-1.jpg) to a remote server (server_1).
+19-09-2022 07:40:53 [nristic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 07:40:53 [nristic.wppsbootcamp.com][info] Preparing to upload a file (/home/nristic/public_html/projekat/wp-content/uploads/2022/09/El-Chapo-og-3-576x1024-1-150x150.jpg) to a remote server (server_1).
+19-09-2022 07:40:53 [nristic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 07:40:53 [nristic.wppsbootcamp.com][info] Preparing to upload a file (/home/nristic/public_html/projekat/wp-content/uploads/2022/09/El-Chapo-og-3-576x1024-1-169x300.jpg) to a remote server (server_1).
+19-09-2022 07:40:53 [nristic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 07:40:53 [nristic.wppsbootcamp.com][debug] New queue created #3, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;18&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:80993,&quot;final_size&quot;:80993,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:65538,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663573253}
+19-09-2022 07:40:53 [nristic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 35
+-------------------------------
+19-09-2022 07:40:54 [nristic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+19-09-2022 07:40:54 [nristic.wppsbootcamp.com][info] Preparing to upload a file (/home/nristic/public_html/projekat/wp-content/uploads/2022/09/Forbidden-Zkittles-3-576x1024-1.jpg) to a remote server (server_1).
+19-09-2022 07:40:54 [nristic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 07:40:54 [nristic.wppsbootcamp.com][info] Preparing to upload a file (/home/nristic/public_html/projekat/wp-content/uploads/2022/09/Forbidden-Zkittles-3-576x1024-1-150x150.jpg) to a remote server (server_1).
+19-09-2022 07:40:54 [nristic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 07:40:54 [nristic.wppsbootcamp.com][info] Preparing to upload a file (/home/nristic/public_html/projekat/wp-content/uploads/2022/09/Forbidden-Zkittles-3-576x1024-1-169x300.jpg) to a remote server (server_1).
+19-09-2022 07:40:54 [nristic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 07:40:54 [nristic.wppsbootcamp.com][debug] New queue created #4, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;19&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:69819,&quot;final_size&quot;:69819,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:56064,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663573254}
+19-09-2022 07:40:54 [nristic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 34
+-------------------------------
+19-09-2022 07:40:55 [nristic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+19-09-2022 07:40:55 [nristic.wppsbootcamp.com][info] Preparing to upload a file (/home/nristic/public_html/projekat/wp-content/uploads/2022/09/Kush-Mountain-3-576x1024-1.jpg) to a remote server (server_1).
+19-09-2022 07:40:55 [nristic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 07:40:55 [nristic.wppsbootcamp.com][info] Preparing to upload a file (/home/nristic/public_html/projekat/wp-content/uploads/2022/09/Kush-Mountain-3-576x1024-1-150x150.jpg) to a remote server (server_1).
+19-09-2022 07:40:55 [nristic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 07:40:55 [nristic.wppsbootcamp.com][info] Preparing to upload a file (/home/nristic/public_html/projekat/wp-content/uploads/2022/09/Kush-Mountain-3-576x1024-1-169x300.jpg) to a remote server (server_1).
+19-09-2022 07:40:55 [nristic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 07:40:55 [nristic.wppsbootcamp.com][debug] New queue created #5, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;20&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:82668,&quot;final_size&quot;:82668,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:66781,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663573255}
+19-09-2022 07:40:55 [nristic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 33
+-------------------------------
+19-09-2022 07:40:56 [nristic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+19-09-2022 07:40:56 [nristic.wppsbootcamp.com][info] Preparing to upload a file (/home/nristic/public_html/projekat/wp-content/uploads/2022/09/Sinmintz-576x1024-1.jpg) to a remote server (server_1).
+19-09-2022 07:40:56 [nristic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 07:40:56 [nristic.wppsbootcamp.com][info] Preparing to upload a file (/home/nristic/public_html/projekat/wp-content/uploads/2022/09/Sinmintz-576x1024-1-150x150.jpg) to a remote server (server_1).
+19-09-2022 07:40:56 [nristic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 07:40:56 [nristic.wppsbootcamp.com][info] Preparing to upload a file (/home/nristic/public_html/projekat/wp-content/uploads/2022/09/Sinmintz-576x1024-1-169x300.jpg) to a remote server (server_1).
+19-09-2022 07:40:56 [nristic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 07:40:56 [nristic.wppsbootcamp.com][debug] New queue created #6, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;21&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:62814,&quot;final_size&quot;:62814,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:49228,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663573256}
+19-09-2022 07:40:56 [nristic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 32
+-------------------------------
+19-09-2022 07:40:57 [nristic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+19-09-2022 07:40:57 [nristic.wppsbootcamp.com][info] Preparing to upload a file (/home/nristic/public_html/projekat/wp-content/uploads/2022/09/Sour-Dank-3-576x1024-1.jpg) to a remote server (server_1).
+19-09-2022 07:40:57 [nristic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 07:40:57 [nristic.wppsbootcamp.com][info] Preparing to upload a file (/home/nristic/public_html/projekat/wp-content/uploads/2022/09/Sour-Dank-3-576x1024-1-150x150.jpg) to a remote server (server_1).
+19-09-2022 07:40:57 [nristic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 07:40:57 [nristic.wppsbootcamp.com][info] Preparing to upload a file (/home/nristic/public_html/projekat/wp-content/uploads/2022/09/Sour-Dank-3-576x1024-1-169x300.jpg) to a remote server (server_1).
+19-09-2022 07:40:57 [nristic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 07:40:57 [nristic.wppsbootcamp.com][debug] New queue created #7, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;22&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:78602,&quot;final_size&quot;:78602,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:63638,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663573257}
+19-09-2022 07:40:57 [nristic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 31
+-------------------------------
+19-09-2022 07:40:58 [nristic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+19-09-2022 07:40:58 [nristic.wppsbootcamp.com][info] Preparing to upload a file (/home/nristic/public_html/projekat/wp-content/uploads/2022/09/Stardawg-Guava-3-576x1024-1.jpg) to a remote server (server_1).
+19-09-2022 07:40:58 [nristic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 07:40:58 [nristic.wppsbootcamp.com][info] Preparing to upload a file (/home/nristic/public_html/projekat/wp-content/uploads/2022/09/Stardawg-Guava-3-576x1024-1-150x150.jpg) to a remote server (server_1).
+19-09-2022 07:40:58 [nristic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 07:40:59 [nristic.wppsbootcamp.com][info] Preparing to upload a file (/home/nristic/public_html/projekat/wp-content/uploads/2022/09/Stardawg-Guava-3-576x1024-1-169x300.jpg) to a remote server (server_1).
+19-09-2022 07:40:59 [nristic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 07:40:59 [nristic.wppsbootcamp.com][debug] New queue created #8, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;23&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:71582,&quot;final_size&quot;:71582,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:58095,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663573259}
+19-09-2022 07:40:59 [nristic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 30
+-------------------------------
+19-09-2022 07:40:59 [nristic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+19-09-2022 07:40:59 [nristic.wppsbootcamp.com][info] Preparing to upload a file (/home/nristic/public_html/projekat/wp-content/uploads/2022/09/Straw-Lemonade-3-576x1024-1.jpg) to a remote server (server_1).
+19-09-2022 07:41:00 [nristic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 07:41:00 [nristic.wppsbootcamp.com][info] Preparing to upload a file (/home/nristic/public_html/projekat/wp-content/uploads/2022/09/Straw-Lemonade-3-576x1024-1-150x150.jpg) to a remote server (server_1).
+19-09-2022 07:41:00 [nristic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 07:41:00 [nristic.wppsbootcamp.com][info] Preparing to upload a file (/home/nristic/public_html/projekat/wp-content/uploads/2022/09/Straw-Lemonade-3-576x1024-1-169x300.jpg) to a remote server (server_1).
+19-09-2022 07:41:00 [nristic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 07:41:00 [nristic.wppsbootcamp.com][debug] New queue created #9, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;24&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:70575,&quot;final_size&quot;:70575,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:56748,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663573260}
+19-09-2022 07:41:00 [nristic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 29
+-------------------------------
+19-09-2022 07:41:00 [nristic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+19-09-2022 07:41:00 [nristic.wppsbootcamp.com][info] Preparing to upload a file (/home/nristic/public_html/projekat/wp-content/uploads/2022/09/White-Truffles-576x1024-1.jpg) to a remote server (server_1).
+19-09-2022 07:41:00 [nristic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 07:41:01 [nristic.wppsbootcamp.com][info] Preparing to upload a file (/home/nristic/public_html/projekat/wp-content/uploads/2022/09/White-Truffles-576x1024-1-150x150.jpg) to a remote server (server_1).
+19-09-2022 07:41:01 [nristic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 07:41:01 [nristic.wppsbootcamp.com][info] Preparing to upload a file (/home/nristic/public_html/projekat/wp-content/uploads/2022/09/White-Truffles-576x1024-1-169x300.jpg) to a remote server (server_1).
+19-09-2022 07:41:01 [nristic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 07:41:01 [nristic.wppsbootcamp.com][debug] New queue created #10, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;25&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:67732,&quot;final_size&quot;:67732,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:52916,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663573261}
+19-09-2022 07:41:01 [nristic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 28
+-------------------------------
+19-09-2022 07:41:01 [nristic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+19-09-2022 07:41:01 [nristic.wppsbootcamp.com][info] Preparing to upload a file (/home/nristic/public_html/projekat/wp-content/uploads/2022/09/Blackberry-Lemonade-576x1024-1.jpg) to a remote server (server_1).
+19-09-2022 07:41:02 [nristic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 07:41:02 [nristic.wppsbootcamp.com][info] Preparing to upload a file (/home/nristic/public_html/projekat/wp-content/uploads/2022/09/Blackberry-Lemonade-576x1024-1-150x150.jpg) to a remote server (server_1).
+19-09-2022 07:41:02 [nristic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 07:41:02 [nristic.wppsbootcamp.com][info] Preparing to upload a file (/home/nristic/public_html/projekat/wp-content/uploads/2022/09/Blackberry-Lemonade-576x1024-1-169x300.jpg) to a remote server (server_1).
+19-09-2022 07:41:02 [nristic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 07:41:02 [nristic.wppsbootcamp.com][debug] New queue created #11, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;26&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:65537,&quot;final_size&quot;:65537,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:53084,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663573262}
+19-09-2022 07:41:02 [nristic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 27
+-------------------------------
+19-09-2022 07:41:02 [nristic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+19-09-2022 07:41:02 [nristic.wppsbootcamp.com][info] Preparing to upload a file (/home/nristic/public_html/projekat/wp-content/uploads/2022/09/DeathBars-Product-Card-576x1024-1.jpg) to a remote server (server_1).
+19-09-2022 07:41:02 [nristic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 07:41:03 [nristic.wppsbootcamp.com][info] Preparing to upload a file (/home/nristic/public_html/projekat/wp-content/uploads/2022/09/DeathBars-Product-Card-576x1024-1-150x150.jpg) to a remote server (server_1).
+19-09-2022 07:41:03 [nristic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 07:41:03 [nristic.wppsbootcamp.com][info] Preparing to upload a file (/home/nristic/public_html/projekat/wp-content/uploads/2022/09/DeathBars-Product-Card-576x1024-1-169x300.jpg) to a remote server (server_1).
+19-09-2022 07:41:04 [nristic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 07:41:04 [nristic.wppsbootcamp.com][debug] New queue created #12, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;27&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:61015,&quot;final_size&quot;:61015,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:48623,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663573264}
+19-09-2022 07:41:04 [nristic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 26
+-------------------------------
+19-09-2022 07:41:04 [nristic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+19-09-2022 07:41:04 [nristic.wppsbootcamp.com][info] Preparing to upload a file (/home/nristic/public_html/projekat/wp-content/uploads/2022/09/Diamonds-Collab-Star-Crunch-576x1024-1.jpg) to a remote server (server_1).
+19-09-2022 07:41:04 [nristic.wppsbootcamp.com][error] Error to optimize attachment (ID: #28). Message: &quot;Cannot copy from uploaded file&quot;
+	-&gt; Attachment optimized? No
+	-&gt; Should be resized? No
+	-&gt; Original size: 576x1024
+	-&gt; Relative path: 2022/09/Diamonds-Collab-Star-Crunch-576x1024-1.jpg
+	-&gt; Server used: server_1
+	-&gt;  Additional sizes:
+		-&gt; Type: woocommerce_thumbnail, size: 300x300, MIME type: image/jpeg
+		-&gt; Type: woocommerce_gallery_thumbnail, size: 100x100, MIME type: image/jpeg
+		-&gt; Type: medium, size: 169x300, MIME type: image/jpeg
+		-&gt; Type: thumbnail, size: 150x150, MIME type: image/jpeg
+
+19-09-2022 07:41:04 [nristic.wppsbootcamp.com][debug] New queue created #13, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;28&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;error&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:0,&quot;final_size&quot;:0,&quot;original_mime_type&quot;:&quot;&quot;,&quot;final_mime_type&quot;:&quot;&quot;,&quot;extra_data&quot;:&quot;{\&quot;error\&quot;:\&quot;optimization\&quot;,\&quot;error_msg\&quot;:\&quot;Cannot copy from uploaded file\&quot;,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663573264}
+19-09-2022 07:41:04 [nristic.wppsbootcamp.com][error] Failed to process (url: https://nristic.wppsbootcamp.com/projekat/wp-content/uploads/2022/09/Diamonds-Collab-Star-Crunch-576x1024-1.jpg, path: /home/nristic/public_html/projekat/wp-content/uploads/2022/09/Diamonds-Collab-Star-Crunch-576x1024-1.jpg, quality: 90) as error was returned: Cannot copy from uploaded file
+19-09-2022 07:41:04 [nristic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 25
+-------------------------------
+19-09-2022 07:41:05 [nristic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+19-09-2022 07:41:05 [nristic.wppsbootcamp.com][info] Preparing to upload a file (/home/nristic/public_html/projekat/wp-content/uploads/2022/09/Diamonds-Main-Card-576x1024-1.jpg) to a remote server (server_1).
+19-09-2022 07:41:05 [nristic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 07:41:05 [nristic.wppsbootcamp.com][info] Preparing to upload a file (/home/nristic/public_html/projekat/wp-content/uploads/2022/09/Diamonds-Main-Card-576x1024-1-150x150.jpg) to a remote server (server_1).
+19-09-2022 07:41:05 [nristic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 07:41:05 [nristic.wppsbootcamp.com][info] Preparing to upload a file (/home/nristic/public_html/projekat/wp-content/uploads/2022/09/Diamonds-Main-Card-576x1024-1-169x300.jpg) to a remote server (server_1).
+19-09-2022 07:41:05 [nristic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 07:41:05 [nristic.wppsbootcamp.com][debug] New queue created #14, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;29&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:63084,&quot;final_size&quot;:63084,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:50003,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663573265}
+19-09-2022 07:41:05 [nristic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 24
+-------------------------------
+19-09-2022 07:41:06 [nristic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+19-09-2022 07:41:06 [nristic.wppsbootcamp.com][info] Preparing to upload a file (/home/nristic/public_html/projekat/wp-content/uploads/2022/09/hero-2.jpg) to a remote server (server_1).
+19-09-2022 07:41:06 [nristic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 07:41:06 [nristic.wppsbootcamp.com][info] Preparing to upload a file (/home/nristic/public_html/projekat/wp-content/uploads/2022/09/hero-2-150x150.jpg) to a remote server (server_1).
+19-09-2022 07:41:06 [nristic.wppsbootcamp.com][info] Preparing to upload a file (/home/nristic/public_html/projekat/wp-content/uploads/2022/09/hero-2-300x169.jpg) to a remote server (server_1).
+19-09-2022 07:41:06 [nristic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 07:41:06 [nristic.wppsbootcamp.com][debug] New queue created #15, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;30&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:98370,&quot;final_size&quot;:98370,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:1,\&quot;original_main_size\&quot;:91867,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663573266}
+19-09-2022 07:41:06 [nristic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 23
+-------------------------------
+19-09-2022 07:41:07 [nristic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+19-09-2022 07:41:07 [nristic.wppsbootcamp.com][info] Preparing to upload a file (/home/nristic/public_html/projekat/wp-content/uploads/2022/09/hero-3.jpg) to a remote server (server_1).
+19-09-2022 07:41:07 [nristic.wppsbootcamp.com][error] Error to optimize attachment (ID: #31). Message: &quot;Cannot copy from uploaded file&quot;
+	-&gt; Attachment optimized? No
+	-&gt; Should be resized? No
+	-&gt; Original size: 1536x864
+	-&gt; Relative path: 2022/09/hero-3.jpg
+	-&gt; Server used: server_1
+	-&gt;  Additional sizes:
+		-&gt; Type: woocommerce_thumbnail, size: 300x300, MIME type: image/jpeg
+		-&gt; Type: woocommerce_gallery_thumbnail, size: 100x100, MIME type: image/jpeg
+		-&gt; Type: woocommerce_single, size: 600x338, MIME type: image/jpeg
+		-&gt; Type: medium, size: 300x169, MIME type: image/jpeg
+		-&gt; Type: large, size: 1024x576, MIME type: image/jpeg
+		-&gt; Type: thumbnail, size: 150x150, MIME type: image/jpeg
+		-&gt; Type: medium_large, size: 768x432, MIME type: image/jpeg
+
+19-09-2022 07:41:07 [nristic.wppsbootcamp.com][debug] New queue created #16, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;31&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;error&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:0,&quot;final_size&quot;:0,&quot;original_mime_type&quot;:&quot;&quot;,&quot;final_mime_type&quot;:&quot;&quot;,&quot;extra_data&quot;:&quot;{\&quot;error\&quot;:\&quot;optimization\&quot;,\&quot;error_msg\&quot;:\&quot;Cannot copy from uploaded file\&quot;,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663573267}
+19-09-2022 07:41:07 [nristic.wppsbootcamp.com][error] Failed to process (url: https://nristic.wppsbootcamp.com/projekat/wp-content/uploads/2022/09/hero-3.jpg, path: /home/nristic/public_html/projekat/wp-content/uploads/2022/09/hero-3.jpg, quality: 90) as error was returned: Cannot copy from uploaded file
+19-09-2022 07:41:07 [nristic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 22
+-------------------------------
+19-09-2022 07:41:08 [nristic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+19-09-2022 07:41:08 [nristic.wppsbootcamp.com][info] Preparing to upload a file (/home/nristic/public_html/projekat/wp-content/uploads/2022/09/hero-4.jpg) to a remote server (server_1).
+19-09-2022 07:41:08 [nristic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 07:41:08 [nristic.wppsbootcamp.com][info] Preparing to upload a file (/home/nristic/public_html/projekat/wp-content/uploads/2022/09/hero-4-150x150.jpg) to a remote server (server_1).
+19-09-2022 07:41:08 [nristic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 07:41:08 [nristic.wppsbootcamp.com][info] Preparing to upload a file (/home/nristic/public_html/projekat/wp-content/uploads/2022/09/hero-4-300x169.jpg) to a remote server (server_1).
+19-09-2022 07:41:08 [nristic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 07:41:08 [nristic.wppsbootcamp.com][debug] New queue created #17, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;32&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:106437,&quot;final_size&quot;:106437,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:94003,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663573268}
+19-09-2022 07:41:08 [nristic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 21
+-------------------------------
+19-09-2022 07:41:09 [nristic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+19-09-2022 07:41:09 [nristic.wppsbootcamp.com][info] Preparing to upload a file (/home/nristic/public_html/projekat/wp-content/uploads/2022/09/hero.jpg) to a remote server (server_1).
+19-09-2022 07:41:09 [nristic.wppsbootcamp.com][error] Error to optimize attachment (ID: #33). Message: &quot;Cannot copy from uploaded file&quot;
+	-&gt; Attachment optimized? No
+	-&gt; Should be resized? No
+	-&gt; Original size: 1536x864
+	-&gt; Relative path: 2022/09/hero.jpg
+	-&gt; Server used: server_1
+	-&gt;  Additional sizes:
+		-&gt; Type: woocommerce_thumbnail, size: 300x300, MIME type: image/jpeg
+		-&gt; Type: woocommerce_gallery_thumbnail, size: 100x100, MIME type: image/jpeg
+		-&gt; Type: woocommerce_single, size: 600x338, MIME type: image/jpeg
+		-&gt; Type: medium, size: 300x169, MIME type: image/jpeg
+		-&gt; Type: large, size: 1024x576, MIME type: image/jpeg
+		-&gt; Type: thumbnail, size: 150x150, MIME type: image/jpeg
+		-&gt; Type: medium_large, size: 768x432, MIME type: image/jpeg
+
+19-09-2022 07:41:09 [nristic.wppsbootcamp.com][debug] New queue created #18, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;33&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;error&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:0,&quot;final_size&quot;:0,&quot;original_mime_type&quot;:&quot;&quot;,&quot;final_mime_type&quot;:&quot;&quot;,&quot;extra_data&quot;:&quot;{\&quot;error\&quot;:\&quot;optimization\&quot;,\&quot;error_msg\&quot;:\&quot;Cannot copy from uploaded file\&quot;,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663573269}
+19-09-2022 07:41:09 [nristic.wppsbootcamp.com][error] Failed to process (url: https://nristic.wppsbootcamp.com/projekat/wp-content/uploads/2022/09/hero.jpg, path: /home/nristic/public_html/projekat/wp-content/uploads/2022/09/hero.jpg, quality: 90) as error was returned: Cannot copy from uploaded file
+19-09-2022 07:41:09 [nristic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 20
+-------------------------------
+19-09-2022 07:41:09 [nristic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+19-09-2022 07:41:09 [nristic.wppsbootcamp.com][info] Preparing to upload a file (/home/nristic/public_html/projekat/wp-content/uploads/2022/09/The-Ultimate-Guide-to-the-Difference-Between-Indica-vs.-Sativa.jpg) to a remote server (server_1).
+19-09-2022 07:41:09 [nristic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 07:41:10 [nristic.wppsbootcamp.com][info] Preparing to upload a file (/home/nristic/public_html/projekat/wp-content/uploads/2022/09/The-Ultimate-Guide-to-the-Difference-Between-Indica-vs.-Sativa-150x150.jpg) to a remote server (server_1).
+19-09-2022 07:41:10 [nristic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 07:41:10 [nristic.wppsbootcamp.com][info] Preparing to upload a file (/home/nristic/public_html/projekat/wp-content/uploads/2022/09/The-Ultimate-Guide-to-the-Difference-Between-Indica-vs.-Sativa-300x188.jpg) to a remote server (server_1).
+19-09-2022 07:41:10 [nristic.wppsbootcamp.com][debug] New queue created #19, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;37&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:74896,&quot;final_size&quot;:74896,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:1,\&quot;original_main_size\&quot;:68668,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663573270}
+19-09-2022 07:41:10 [nristic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 19
+-------------------------------
+19-09-2022 07:41:10 [nristic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+19-09-2022 07:41:10 [nristic.wppsbootcamp.com][info] Preparing to upload a file (/home/nristic/public_html/projekat/wp-content/uploads/2022/09/VAPELORD-1.png) to a remote server (server_1).
+19-09-2022 07:41:10 [nristic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 07:41:10 [nristic.wppsbootcamp.com][info] Preparing to upload a file (/home/nristic/public_html/projekat/wp-content/uploads/2022/09/VAPELORD-1-150x150.png) to a remote server (server_1).
+19-09-2022 07:41:10 [nristic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 07:41:11 [nristic.wppsbootcamp.com][info] Preparing to upload a file (/home/nristic/public_html/projekat/wp-content/uploads/2022/09/VAPELORD-1-300x300.png) to a remote server (server_1).
+19-09-2022 07:41:11 [nristic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 07:41:11 [nristic.wppsbootcamp.com][debug] New queue created #20, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;39&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:83042,&quot;final_size&quot;:33332,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:43310,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663573271}
+19-09-2022 07:41:11 [nristic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 18
+-------------------------------
+19-09-2022 07:41:12 [nristic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+19-09-2022 07:41:12 [nristic.wppsbootcamp.com][info] Preparing to upload a file (/home/nristic/public_html/projekat/wp-content/uploads/2022/09/banca_intesa.png) to a remote server (server_1).
+19-09-2022 07:41:12 [nristic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 07:41:12 [nristic.wppsbootcamp.com][info] Preparing to upload a file (/home/nristic/public_html/projekat/wp-content/uploads/2022/09/banca_intesa-150x37.png) to a remote server (server_1).
+19-09-2022 07:41:12 [nristic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 07:41:12 [nristic.wppsbootcamp.com][debug] New queue created #21, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;49&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:24988,&quot;final_size&quot;:8866,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:1,\&quot;original_main_size\&quot;:17393,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663573272}
+19-09-2022 07:41:12 [nristic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 17
+-------------------------------
+19-09-2022 07:41:12 [nristic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+19-09-2022 07:41:13 [nristic.wppsbootcamp.com][info] Preparing to upload a file (/home/nristic/public_html/projekat/wp-content/uploads/2022/09/26016-3-major-credit-card-logo-clipart.png) to a remote server (server_1).
+19-09-2022 07:41:13 [nristic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 07:41:13 [nristic.wppsbootcamp.com][info] Preparing to upload a file (/home/nristic/public_html/projekat/wp-content/uploads/2022/09/26016-3-major-credit-card-logo-clipart-150x150.png) to a remote server (server_1).
+19-09-2022 07:41:13 [nristic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 07:41:13 [nristic.wppsbootcamp.com][info] Preparing to upload a file (/home/nristic/public_html/projekat/wp-content/uploads/2022/09/26016-3-major-credit-card-logo-clipart-300x42.png) to a remote server (server_1).
+19-09-2022 07:41:13 [nristic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 07:41:13 [nristic.wppsbootcamp.com][debug] New queue created #22, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;50&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:626521,&quot;final_size&quot;:40972,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:602849,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663573273}
+19-09-2022 07:41:13 [nristic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 16
+-------------------------------
+19-09-2022 07:41:13 [nristic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+19-09-2022 07:41:13 [nristic.wppsbootcamp.com][info] Preparing to upload a file (/home/nristic/public_html/projekat/wp-content/uploads/2022/09/Vaping.jpg) to a remote server (server_1).
+19-09-2022 07:41:14 [nristic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 07:41:14 [nristic.wppsbootcamp.com][info] Preparing to upload a file (/home/nristic/public_html/projekat/wp-content/uploads/2022/09/Vaping-150x150.jpg) to a remote server (server_1).
+19-09-2022 07:41:14 [nristic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 07:41:14 [nristic.wppsbootcamp.com][info] Preparing to upload a file (/home/nristic/public_html/projekat/wp-content/uploads/2022/09/Vaping-300x197.jpg) to a remote server (server_1).
+19-09-2022 07:41:14 [nristic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 07:41:14 [nristic.wppsbootcamp.com][debug] New queue created #23, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;107&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:120168,&quot;final_size&quot;:94446,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:106924,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663573274}
+19-09-2022 07:41:14 [nristic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 15
+-------------------------------
+19-09-2022 07:41:14 [nristic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+19-09-2022 07:41:14 [nristic.wppsbootcamp.com][info] Preparing to upload a file (/home/nristic/public_html/projekat/wp-content/uploads/2022/09/Cherry-Cola-576x1024-1.jpg) to a remote server (server_1).
+19-09-2022 07:41:14 [nristic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 07:41:14 [nristic.wppsbootcamp.com][info] Preparing to upload a file (/home/nristic/public_html/projekat/wp-content/uploads/2022/09/Cherry-Cola-576x1024-1-150x150.jpg) to a remote server (server_1).
+19-09-2022 07:41:14 [nristic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 07:41:14 [nristic.wppsbootcamp.com][info] Preparing to upload a file (/home/nristic/public_html/projekat/wp-content/uploads/2022/09/Cherry-Cola-576x1024-1-169x300.jpg) to a remote server (server_1).
+19-09-2022 07:41:14 [nristic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 07:41:14 [nristic.wppsbootcamp.com][debug] New queue created #24, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;119&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:59529,&quot;final_size&quot;:59529,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:48528,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663573274}
+19-09-2022 07:41:14 [nristic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 14
+-------------------------------
+19-09-2022 07:41:14 [nristic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+19-09-2022 07:41:14 [nristic.wppsbootcamp.com][info] Preparing to upload a file (/home/nristic/public_html/projekat/wp-content/uploads/2022/09/Peach-576x1024-1.jpg) to a remote server (server_1).
+19-09-2022 07:41:15 [nristic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 07:41:15 [nristic.wppsbootcamp.com][info] Preparing to upload a file (/home/nristic/public_html/projekat/wp-content/uploads/2022/09/Peach-576x1024-1-150x150.jpg) to a remote server (server_1).
+19-09-2022 07:41:15 [nristic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 07:41:15 [nristic.wppsbootcamp.com][info] Preparing to upload a file (/home/nristic/public_html/projekat/wp-content/uploads/2022/09/Peach-576x1024-1-169x300.jpg) to a remote server (server_1).
+19-09-2022 07:41:15 [nristic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 07:41:15 [nristic.wppsbootcamp.com][debug] New queue created #25, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;121&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:59052,&quot;final_size&quot;:59052,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:47477,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663573275}
+19-09-2022 07:41:15 [nristic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 13
+-------------------------------
+19-09-2022 07:41:15 [nristic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+19-09-2022 07:41:15 [nristic.wppsbootcamp.com][info] Preparing to upload a file (/home/nristic/public_html/projekat/wp-content/uploads/woocommerce-placeholder.png) to a remote server (server_1).
+19-09-2022 07:41:15 [nristic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 07:41:16 [nristic.wppsbootcamp.com][info] Preparing to upload a file (/home/nristic/public_html/projekat/wp-content/uploads/woocommerce-placeholder-150x150.png) to a remote server (server_1).
+19-09-2022 07:41:16 [nristic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 07:41:16 [nristic.wppsbootcamp.com][info] Preparing to upload a file (/home/nristic/public_html/projekat/wp-content/uploads/woocommerce-placeholder-300x300.png) to a remote server (server_1).
+19-09-2022 07:41:16 [nristic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 07:41:16 [nristic.wppsbootcamp.com][debug] New queue created #26, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;134&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:119323,&quot;final_size&quot;:84347,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:102644,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663573276}
+19-09-2022 07:41:16 [nristic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 12
+-------------------------------
+19-09-2022 07:41:16 [nristic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+19-09-2022 07:41:16 [nristic.wppsbootcamp.com][info] Preparing to upload a file (/home/nristic/public_html/projekat/wp-content/uploads/2022/09/AMG-3-576x1024-1.jpg) to a remote server (server_1).
+19-09-2022 07:41:16 [nristic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 07:41:16 [nristic.wppsbootcamp.com][info] Preparing to upload a file (/home/nristic/public_html/projekat/wp-content/uploads/2022/09/AMG-3-576x1024-1-150x150.jpg) to a remote server (server_1).
+19-09-2022 07:41:16 [nristic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 07:41:16 [nristic.wppsbootcamp.com][info] Preparing to upload a file (/home/nristic/public_html/projekat/wp-content/uploads/2022/09/AMG-3-576x1024-1-169x300.jpg) to a remote server (server_1).
+19-09-2022 07:41:16 [nristic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 07:41:16 [nristic.wppsbootcamp.com][debug] New queue created #27, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;275&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:73984,&quot;final_size&quot;:73984,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:59655,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663573276}
+19-09-2022 07:41:16 [nristic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 11
+-------------------------------
+19-09-2022 07:41:16 [nristic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+19-09-2022 07:41:16 [nristic.wppsbootcamp.com][info] Preparing to upload a file (/home/nristic/public_html/projekat/wp-content/uploads/2022/09/Gashouseog-3-576x1024-1.jpg) to a remote server (server_1).
+19-09-2022 07:41:17 [nristic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 07:41:17 [nristic.wppsbootcamp.com][info] Preparing to upload a file (/home/nristic/public_html/projekat/wp-content/uploads/2022/09/Gashouseog-3-576x1024-1-150x150.jpg) to a remote server (server_1).
+19-09-2022 07:41:17 [nristic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 07:41:17 [nristic.wppsbootcamp.com][info] Preparing to upload a file (/home/nristic/public_html/projekat/wp-content/uploads/2022/09/Gashouseog-3-576x1024-1-169x300.jpg) to a remote server (server_1).
+19-09-2022 07:41:17 [nristic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 07:41:17 [nristic.wppsbootcamp.com][debug] New queue created #28, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;276&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:78965,&quot;final_size&quot;:78965,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:63681,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663573277}
+19-09-2022 07:41:17 [nristic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 10
+-------------------------------
+19-09-2022 07:41:17 [nristic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+19-09-2022 07:41:17 [nristic.wppsbootcamp.com][info] Preparing to upload a file (/home/nristic/public_html/projekat/wp-content/uploads/2022/09/Cherry-Lime-576x1024-1.jpg) to a remote server (server_1).
+19-09-2022 07:41:17 [nristic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 07:41:17 [nristic.wppsbootcamp.com][info] Preparing to upload a file (/home/nristic/public_html/projekat/wp-content/uploads/2022/09/Cherry-Lime-576x1024-1-150x150.jpg) to a remote server (server_1).
+19-09-2022 07:41:17 [nristic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 07:41:17 [nristic.wppsbootcamp.com][info] Preparing to upload a file (/home/nristic/public_html/projekat/wp-content/uploads/2022/09/Cherry-Lime-576x1024-1-169x300.jpg) to a remote server (server_1).
+19-09-2022 07:41:17 [nristic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 07:41:17 [nristic.wppsbootcamp.com][debug] New queue created #29, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;277&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:58862,&quot;final_size&quot;:58862,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:46966,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663573277}
+19-09-2022 07:41:17 [nristic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 9
+-------------------------------
+19-09-2022 07:41:18 [nristic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+19-09-2022 07:41:18 [nristic.wppsbootcamp.com][info] Preparing to upload a file (/home/nristic/public_html/projekat/wp-content/uploads/2022/09/Cannabis-Community-Logo-800w.png) to a remote server (server_1).
+19-09-2022 07:41:18 [nristic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 07:41:18 [nristic.wppsbootcamp.com][info] Preparing to upload a file (/home/nristic/public_html/projekat/wp-content/uploads/2022/09/Cannabis-Community-Logo-800w-150x150.png) to a remote server (server_1).
+19-09-2022 07:41:18 [nristic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 07:41:18 [nristic.wppsbootcamp.com][info] Preparing to upload a file (/home/nristic/public_html/projekat/wp-content/uploads/2022/09/Cannabis-Community-Logo-800w-300x103.png) to a remote server (server_1).
+19-09-2022 07:41:18 [nristic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 07:41:18 [nristic.wppsbootcamp.com][debug] New queue created #30, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;292&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:41494,&quot;final_size&quot;:18716,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:18057,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663573278}
+19-09-2022 07:41:18 [nristic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 8
+-------------------------------
+19-09-2022 07:41:18 [nristic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+19-09-2022 07:41:18 [nristic.wppsbootcamp.com][info] Preparing to upload a file (/home/nristic/public_html/projekat/wp-content/uploads/2022/09/Socal-2022-scaled.jpg) to a remote server (server_1).
+19-09-2022 07:41:18 [nristic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 07:41:19 [nristic.wppsbootcamp.com][info] Preparing to upload a file (/home/nristic/public_html/projekat/wp-content/uploads/2022/09/Socal-2022-150x150.jpg) to a remote server (server_1).
+19-09-2022 07:41:19 [nristic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 07:41:19 [nristic.wppsbootcamp.com][info] Preparing to upload a file (/home/nristic/public_html/projekat/wp-content/uploads/2022/09/Socal-2022-300x169.jpg) to a remote server (server_1).
+19-09-2022 07:41:19 [nristic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 07:41:19 [nristic.wppsbootcamp.com][debug] New queue created #31, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;309&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:339996,&quot;final_size&quot;:176663,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:321795,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663573279}
+19-09-2022 07:41:19 [nristic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 7
+-------------------------------
+19-09-2022 07:41:19 [nristic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+19-09-2022 07:41:19 [nristic.wppsbootcamp.com][info] Preparing to upload a file (/home/nristic/public_html/projekat/wp-content/uploads/2022/09/buy-cbd-oil-in-illinois-new-storefront.jpg) to a remote server (server_1).
+19-09-2022 07:41:19 [nristic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 07:41:19 [nristic.wppsbootcamp.com][info] Preparing to upload a file (/home/nristic/public_html/projekat/wp-content/uploads/2022/09/buy-cbd-oil-in-illinois-new-storefront-150x150.jpg) to a remote server (server_1).
+19-09-2022 07:41:19 [nristic.wppsbootcamp.com][info] Preparing to upload a file (/home/nristic/public_html/projekat/wp-content/uploads/2022/09/buy-cbd-oil-in-illinois-new-storefront-300x196.jpg) to a remote server (server_1).
+19-09-2022 07:41:19 [nristic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 07:41:19 [nristic.wppsbootcamp.com][debug] New queue created #32, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;341&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:60005,&quot;final_size&quot;:60005,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:1,\&quot;original_main_size\&quot;:40741,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663573279}
+19-09-2022 07:41:19 [nristic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 6
+-------------------------------
+19-09-2022 07:41:19 [nristic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+19-09-2022 07:41:19 [nristic.wppsbootcamp.com][info] Preparing to upload a file (/home/nristic/public_html/projekat/wp-content/uploads/2022/09/cbd-store.jpg) to a remote server (server_1).
+19-09-2022 07:41:19 [nristic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 07:41:20 [nristic.wppsbootcamp.com][info] Preparing to upload a file (/home/nristic/public_html/projekat/wp-content/uploads/2022/09/cbd-store-150x150.jpg) to a remote server (server_1).
+19-09-2022 07:41:20 [nristic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 07:41:20 [nristic.wppsbootcamp.com][info] Preparing to upload a file (/home/nristic/public_html/projekat/wp-content/uploads/2022/09/cbd-store-300x212.jpg) to a remote server (server_1).
+19-09-2022 07:41:20 [nristic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 07:41:20 [nristic.wppsbootcamp.com][debug] New queue created #33, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;342&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:94528,&quot;final_size&quot;:94528,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:72643,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663573280}
+19-09-2022 07:41:20 [nristic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+19-09-2022 07:41:20 [nristic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+19-09-2022 07:41:20 [nristic.wppsbootcamp.com][info] Preparing to upload a file (/home/nristic/public_html/projekat/wp-content/uploads/2022/09/Ace-Of-Spades-3-576x1024-1.jpg) to a remote server (server_1).
+19-09-2022 07:41:20 [nristic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 07:41:20 [nristic.wppsbootcamp.com][info] Preparing to upload a file (/home/nristic/public_html/projekat/wp-content/uploads/2022/09/Ace-Of-Spades-3-576x1024-1-150x150.jpg) to a remote server (server_1).
+19-09-2022 07:41:20 [nristic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 07:41:20 [nristic.wppsbootcamp.com][info] Preparing to upload a file (/home/nristic/public_html/projekat/wp-content/uploads/2022/09/Ace-Of-Spades-3-576x1024-1-169x300.jpg) to a remote server (server_1).
+19-09-2022 07:41:20 [nristic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 07:41:20 [nristic.wppsbootcamp.com][debug] New queue created #34, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;366&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:66320,&quot;final_size&quot;:66320,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:53543,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663573280}
+19-09-2022 07:41:20 [nristic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+19-09-2022 07:41:20 [nristic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+19-09-2022 07:41:21 [nristic.wppsbootcamp.com][info] Preparing to upload a file (/home/nristic/public_html/projekat/wp-content/uploads/2022/09/4720828-scaled.jpg) to a remote server (server_1).
+19-09-2022 07:41:21 [nristic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 07:41:21 [nristic.wppsbootcamp.com][info] Preparing to upload a file (/home/nristic/public_html/projekat/wp-content/uploads/2022/09/4720828-150x150.jpg) to a remote server (server_1).
+19-09-2022 07:41:21 [nristic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 07:41:21 [nristic.wppsbootcamp.com][info] Preparing to upload a file (/home/nristic/public_html/projekat/wp-content/uploads/2022/09/4720828-300x200.jpg) to a remote server (server_1).
+19-09-2022 07:41:21 [nristic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 07:41:21 [nristic.wppsbootcamp.com][debug] New queue created #35, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;450&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:588833,&quot;final_size&quot;:293812,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:566651,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663573281}
+19-09-2022 07:41:21 [nristic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 3
+-------------------------------
+19-09-2022 07:41:22 [nristic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+19-09-2022 07:41:22 [nristic.wppsbootcamp.com][info] Preparing to upload a file (/home/nristic/public_html/projekat/wp-content/uploads/2022/09/fx1_lrg.jpg) to a remote server (server_1).
+19-09-2022 07:41:22 [nristic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 07:41:23 [nristic.wppsbootcamp.com][info] Preparing to upload a file (/home/nristic/public_html/projekat/wp-content/uploads/2022/09/fx1_lrg-150x150.jpg) to a remote server (server_1).
+19-09-2022 07:41:23 [nristic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 07:41:23 [nristic.wppsbootcamp.com][info] Preparing to upload a file (/home/nristic/public_html/projekat/wp-content/uploads/2022/09/fx1_lrg-300x177.jpg) to a remote server (server_1).
+19-09-2022 07:41:23 [nristic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 07:41:23 [nristic.wppsbootcamp.com][debug] New queue created #36, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;459&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:353864,&quot;final_size&quot;:251558,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:339497,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663573283}
+19-09-2022 07:41:23 [nristic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 2
+-------------------------------
+19-09-2022 07:41:23 [nristic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+19-09-2022 07:41:23 [nristic.wppsbootcamp.com][info] Preparing to upload a file (/home/nristic/public_html/projekat/wp-content/uploads/2022/09/vapeclubmy-Kwcv9UiImLY-unsplash-scaled.jpg) to a remote server (server_1).
+19-09-2022 07:41:23 [nristic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 07:41:23 [nristic.wppsbootcamp.com][info] Preparing to upload a file (/home/nristic/public_html/projekat/wp-content/uploads/2022/09/vapeclubmy-Kwcv9UiImLY-unsplash-150x150.jpg) to a remote server (server_1).
+19-09-2022 07:41:23 [nristic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 07:41:23 [nristic.wppsbootcamp.com][info] Preparing to upload a file (/home/nristic/public_html/projekat/wp-content/uploads/2022/09/vapeclubmy-Kwcv9UiImLY-unsplash-300x200.jpg) to a remote server (server_1).
+19-09-2022 07:41:24 [nristic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 07:41:24 [nristic.wppsbootcamp.com][debug] New queue created #37, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;465&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:232079,&quot;final_size&quot;:110921,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:219401,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663573284}
+19-09-2022 07:41:24 [nristic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+19-09-2022 07:41:24 [nristic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+19-09-2022 07:41:24 [nristic.wppsbootcamp.com][info] Preparing to upload a file (/home/nristic/public_html/projekat/wp-content/uploads/2022/09/d8083451150867.58e42fcb3d340.jpg) to a remote server (server_1).
+19-09-2022 07:41:24 [nristic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 07:41:24 [nristic.wppsbootcamp.com][info] Preparing to upload a file (/home/nristic/public_html/projekat/wp-content/uploads/2022/09/d8083451150867.58e42fcb3d340-150x150.jpg) to a remote server (server_1).
+19-09-2022 07:41:25 [nristic.wppsbootcamp.com][info] Preparing to upload a file (/home/nristic/public_html/projekat/wp-content/uploads/2022/09/d8083451150867.58e42fcb3d340-300x200.jpg) to a remote server (server_1).
+19-09-2022 07:41:25 [nristic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 07:41:25 [nristic.wppsbootcamp.com][debug] New queue created #38, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;468&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:323475,&quot;final_size&quot;:161938,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:1,\&quot;original_main_size\&quot;:313165,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663573285}
+19-09-2022 07:41:25 [nristic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 0
+-------------------------------
+19-09-2022 07:42:31 [nristic.wppsbootcamp.com][info] Parent plugin start deactivation!
+19-09-2022 07:42:31 [nristic.wppsbootcamp.com][info] Parent plugin deactivation complete!
+-------------------------------

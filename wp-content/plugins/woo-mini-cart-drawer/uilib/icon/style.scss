@@ -1,0 +1,493 @@
+@import "variables";
+
+@font-face {
+  font-family: '#{$icomoon-font-family}';
+  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?ht32r5');
+  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?ht32r5#iefix') format('embedded-opentype'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.ttf?ht32r5') format('truetype'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.woff?ht32r5') format('woff'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.svg?ht32r5##{$icomoon-font-family}') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+.ap {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: '#{$icomoon-font-family}' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.ap-wc-multi-currency {
+  &:before {
+    content: $ap-wc-multi-currency; 
+  }
+}
+.ap-mca-logo {
+  &:before {
+    content: $ap-mca-logo; 
+  }
+}
+.ap-elite-licenser {
+  &:before {
+    content: $ap-elite-licenser; 
+  }
+}
+.ap-webhook {
+  &:before {
+    content: $ap-webhook; 
+  }
+}
+.ap-hook {
+  &:before {
+    content: $ap-hook; 
+  }
+}
+.ap-documentation {
+  &:before {
+    content: $ap-documentation; 
+  }
+}
+.ap-third-party-integration {
+  &:before {
+    content: $ap-third-party-integration; 
+  }
+}
+.ap-api-list {
+  &:before {
+    content: $ap-api-list; 
+  }
+}
+.ap-ban-host {
+  &:before {
+    content: $ap-ban-host; 
+  }
+}
+.ap-email-template {
+  &:before {
+    content: $ap-email-template; 
+  }
+}
+.ap-client-2 {
+  &:before {
+    content: $ap-client-2; 
+  }
+}
+.ap-licence {
+  &:before {
+    content: $ap-licence; 
+  }
+}
+.ap-license-type {
+  &:before {
+    content: $ap-license-type; 
+  }
+}
+.ap-product-license {
+  &:before {
+    content: $ap-product-license; 
+  }
+}
+.ap-product-list {
+  &:before {
+    content: $ap-product-list; 
+  }
+}
+.ap-product-update {
+  &:before {
+    content: $ap-product-update; 
+  }
+}
+.ap-request-manager {
+  &:before {
+    content: $ap-request-manager; 
+  }
+}
+.ap-setting {
+  &:before {
+    content: $ap-setting; 
+  }
+}
+.ap-wp-drop {
+  &:before {
+    content: $ap-wp-drop; 
+  }
+}
+.ap-paddle {
+  &:before {
+    content: $ap-paddle; 
+  }
+}
+.ap-fastspring {
+  &:before {
+    content: $ap-fastspring; 
+  }
+}
+.ap-fastspring-sm {
+  &:before {
+    content: $ap-fastspring-sm; 
+  }
+}
+.ap-rule {
+  &:before {
+    content: $ap-rule; 
+  }
+}
+.ap-users-check {
+  &:before {
+    content: $ap-users-check; 
+  }
+}
+.ap-users-check-2 {
+  &:before {
+    content: $ap-users-check-2; 
+  }
+}
+.ap-users-check-3 {
+  &:before {
+    content: $ap-users-check-3; 
+  }
+}
+.ap-chat {
+  &:before {
+    content: $ap-chat; 
+  }
+}
+.ap-chat1 {
+  &:before {
+    content: $ap-chat1; 
+  }
+}
+.ap-chat2 {
+  &:before {
+    content: $ap-chat2; 
+  }
+}
+.ap-chat3 {
+  &:before {
+    content: $ap-chat3; 
+  }
+}
+.ap-fb-messenger {
+  &:before {
+    content: $ap-fb-messenger; 
+  }
+}
+.ap-remote-login {
+  &:before {
+    content: $ap-remote-login; 
+  }
+}
+.ap-theme {
+  &:before {
+    content: $ap-theme; 
+  }
+}
+.ap-shield {
+  &:before {
+    content: $ap-shield; 
+  }
+}
+.ap-ip {
+  &:before {
+    content: $ap-ip; 
+  }
+}
+.ap-locked-user {
+  &:before {
+    content: $ap-locked-user; 
+  }
+}
+.ap-locked-user2 {
+  &:before {
+    content: $ap-locked-user2; 
+  }
+}
+.ap-email-ticket {
+  &:before {
+    content: $ap-email-ticket; 
+  }
+}
+.ap-admin-settings {
+  &:before {
+    content: $ap-admin-settings; 
+  }
+}
+.ap-api {
+  &:before {
+    content: $ap-api; 
+  }
+}
+.ap-client {
+  &:before {
+    content: $ap-client; 
+  }
+}
+.ap-report {
+  &:before {
+    content: $ap-report; 
+  }
+}
+.ap-dashboard {
+  &:before {
+    content: $ap-dashboard; 
+  }
+}
+.ap-email-settings {
+  &:before {
+    content: $ap-email-settings; 
+  }
+}
+.ap-msg-send {
+  &:before {
+    content: $ap-msg-send; 
+  }
+}
+.ap-msg-send2om {
+  &:before {
+    content: $ap-msg-send2om; 
+  }
+}
+.ap-template {
+  &:before {
+    content: $ap-template; 
+  }
+}
+.ap-insert {
+  &:before {
+    content: $ap-insert; 
+  }
+}
+.ap-insert2 {
+  &:before {
+    content: $ap-insert2; 
+  }
+}
+.ap-envato {
+  &:before {
+    content: $ap-envato; 
+  }
+}
+.ap-appsbd {
+  &:before {
+    content: $ap-appsbd; 
+  }
+}
+.ap-gdpr {
+  &:before {
+    content: $ap-gdpr; 
+  }
+}
+.ap-language {
+  &:before {
+    content: $ap-language; 
+  }
+}
+.ap-cost {
+  &:before {
+    content: $ap-cost; 
+  }
+}
+.ap-clients {
+  &:before {
+    content: $ap-clients; 
+  }
+}
+.ap-license {
+  &:before {
+    content: $ap-license; 
+  }
+}
+.ap-license-2 {
+  &:before {
+    content: $ap-license-2; 
+  }
+}
+.ap-license-3 {
+  &:before {
+    content: $ap-license-3; 
+  }
+}
+.ap-products {
+  &:before {
+    content: $ap-products; 
+  }
+}
+.ap-product {
+  &:before {
+    content: $ap-product; 
+  }
+}
+.ap-license-type-3 {
+  &:before {
+    content: $ap-license-type-3; 
+  }
+}
+.ap-facebook {
+  &:before {
+    content: $ap-facebook;     
+    color: #3b5998;
+  }
+}
+.ap-analytics {
+  &:before {
+    content: $ap-analytics;     
+    color: #ffc107;
+  }
+}
+.ap-google {
+  &:before {
+    content: $ap-google;     
+    color: #dc4e41;
+  }
+}
+.ap-linkedin {
+  &:before {
+    content: $ap-linkedin;     
+    color: #0077b5;
+  }
+}
+.ap-paypal {
+  &:before {
+    content: $ap-paypal;     
+    color: #00457c;
+  }
+}
+.ap-twitter {
+  &:before {
+    content: $ap-twitter;     
+    color: #1da1f2;
+  }
+}
+.ap-wordpress {
+  &:before {
+    content: $ap-wordpress;     
+    color: #21759b;
+  }
+}
+.ap-youtube {
+  &:before {
+    content: $ap-youtube;     
+    color: #cd201f;
+  }
+}
+.ap-mailchimp {
+  &:before {
+    content: $ap-mailchimp; 
+  }
+}
+.ap-phone {
+  &:before {
+    content: $ap-phone; 
+  }
+}
+.ap-phone-hang-up {
+  &:before {
+    content: $ap-phone-hang-up; 
+  }
+}
+.ap-spinner9 {
+  &:before {
+    content: $ap-spinner9; 
+  }
+}
+.ap-volume-high {
+  &:before {
+    content: $ap-volume-high; 
+  }
+}
+.ap-volume-medium {
+  &:before {
+    content: $ap-volume-medium; 
+  }
+}
+.ap-volume-low {
+  &:before {
+    content: $ap-volume-low; 
+  }
+}
+.ap-volume-mute {
+  &:before {
+    content: $ap-volume-mute; 
+  }
+}
+.ap-volume-mute2 {
+  &:before {
+    content: $ap-volume-mute2; 
+  }
+}
+.ap-make-group {
+  &:before {
+    content: $ap-make-group; 
+  }
+}
+.ap-page-break {
+  &:before {
+    content: $ap-page-break; 
+  }
+}
+.ap-comment {
+  &:before {
+    content: $ap-comment; 
+  }
+}
+.ap-mic {
+  &:before {
+    content: $ap-mic; 
+  }
+}
+.ap-monitor {
+  &:before {
+    content: $ap-monitor; 
+  }
+}
+.ap-mouse {
+  &:before {
+    content: $ap-mouse; 
+  }
+}
+.ap-alarm {
+  &:before {
+    content: $ap-alarm; 
+  }
+}
+.ap-volume {
+  &:before {
+    content: $ap-volume; 
+  }
+}
+.ap-volume2 {
+  &:before {
+    content: $ap-volume2; 
+  }
+}
+.ap-stats {
+  &:before {
+    content: $ap-stats; 
+  }
+}
+.ap-trophy {
+  &:before {
+    content: $ap-trophy; 
+  }
+}
+.ap-code {
+  &:before {
+    content: $ap-code; 
+  }
+}
+.ap-shortcode {
+  &:before {
+    content: $ap-shortcode; 
+  }
+}
+
